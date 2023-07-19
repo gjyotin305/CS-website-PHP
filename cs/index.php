@@ -233,19 +233,23 @@ include 'navbar.html';
                 <div class="card">
 
                     <!--Card image-->
-                    <img class="img-fluid" src="images/form.png" alt="Forms">
+                    <!-- <img class="img-fluid" src="images/form.png" alt="Forms"> -->
                     <!--/.Card image-->
 
                     <!--Card content-->
-                    <div class="card-block" style="height: 12.5rem; overflow:scroll">
+                    <div class="card-block" style="height: 22rem">
                         <!--Title-->	
-                        <h4 class="card-title">Important Links</h4>
+                        <h4 class="card-title" style="padding: 1rem">Important Links</h4>
                         <!--Text-->
                         <p class="card-text">
                         <ol>
-                            <li><a href="map/index.html">Hotel Map</a></li>
-                            <li><a href="bus_schedule.php">Bus Schedule</a></li>
-                            <li><a href="form_required.php">Forms and Documents</a></li>
+                            <!-- <li><a href="map/index.html">Hotel Map</a></li> -->
+                            <!-- <li><a href="bus_schedule.php">Bus Schedule</a></li> -->
+                            <!-- <li><a href="form_required.php">Forms and Documents</a></li> -->
+                            <li><a href="faculty_advisors.php">Faculty Advisors</a></li>
+                            <li><a href="counsellors_team.php">Counsellors Team</a></li>
+                            <li><a href="cs_team_ug_2023.php">UG Team</a></li>
+                            <li><a href="cs_team_pg_2022.php">PG Team</a></li>
                             <li><a href="general_faqs.php">General Queries</a></li>
                             <li><a href="https://discord.gg/n9bHXwhFTZ">Discord Server</a></li>
                             <li><a href="https://www.instagram.com/iit_jodhpur_freshers/">Instagram</a></li>

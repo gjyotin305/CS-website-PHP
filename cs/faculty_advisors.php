@@ -26,6 +26,16 @@ include 'navbar.html';
         <!--First column-->
         <div class="col-lg-12 col-md-12 mb-r">
             <div class="avatar">
+                <img src="images/sqloader.gif" data-src="images/avatar/Ankita_sharma.jpg" class="lazyload rounded-circle">
+            </div>
+            <h4>Dr. Ankita Sharma</h4>
+            <h5>Associate Dean</h5>
+            <h5><strong>Contact : </strong>0291-2801406</h5>
+
+            <a class="icons-sm email-ic" href="mailto:ankitasharma@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
+        </div>
+        <div class="col-lg-12 col-md-12 mb-r">
+            <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Saakshi_Dhanekar.jpg" class="lazyload rounded-circle">
             </div>
             <h4>Dr. Saakshi Dhanekar</h4>
