@@ -52,7 +52,8 @@ include 'navbar.html';
         include 'callout.html';
         ?>
             <div class="mask hm-black-light">
-                <div class="full-bg-img"></div>
+                <div class="full-bg-img">
+                </div>
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
@@ -90,7 +91,7 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <li><h2 class="h2-responsive">FRAMED</h2></li>
+                    <!-- <li><h2 class="h2-responsive">FRAMED</h2></li> -->
                 </ul>
             </div>
         </div>
@@ -106,7 +107,7 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <li><h2 class="h2-responsive">Antakshari during SPANDAN</h2></li>
+                    <!-- <li><h2 class="h2-responsive">Antakshari during SPANDAN</h2></li> -->
                 </ul>
             </div>
         </div>
@@ -120,7 +121,7 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <li><h2 class="h2-responsive">Plane models during NIMBLE</h2></li>
+                    <!-- <li><h2 class="h2-responsive">Plane models during NIMBLE</h2></li> -->
                 </ul>
             </div>
         </div>
@@ -134,7 +135,7 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <li><h2 class="h2-responsive">EDM night during IGNUS</h2></li>
+                    <!-- <li><h2 class="h2-responsive">EDM night during IGNUS</h2></li> -->
                 </ul>
             </div>
         </div>
@@ -148,7 +149,7 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <li><h2 class="h2-responsive">Volleyball match during VARCHAS</h2></li>
+                    <!-- <li><h2 class="h2-responsive">Volleyball match during VARCHAS</h2></li> -->
                 </ul>
             </div>
         </div>
@@ -162,22 +163,7 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <li><h2 class="h2-responsive">DefeatTheBeat (IITJ Dance Club) during Ignus</h2></li>
-                </ul>
-            </div>
-        </div>
-        <!--/.Slide -->
-        <!--Slide -->
-        <div class="carousel-item view">
-        <?php
-            include 'callout.html';
-            ?>
-            <div class="mask hm-black-light">
-                <div class="full-bg-img"></div>
-            </div>
-            <div class="carousel-caption">
-                <ul class="animated fadeInUp">
-                    <li><h2 class="h2-responsive">Scribble night</h2></li>
+                    <!-- <li><h2 class="h2-responsive">DefeatTheBeat (IITJ Dance Club) during Ignus</h2></li> -->
                 </ul>
             </div>
         </div>
@@ -192,7 +178,22 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <li><h2 class="h2-responsive">Matki Fod</h2></li>
+                    <!-- <li><h2 class="h2-responsive">Scribble night</h2></li> -->
+                </ul>
+            </div>
+        </div>
+        <!--/.Slide -->
+        <!--Slide -->
+        <div class="carousel-item view">
+        <?php
+            include 'callout.html';
+            ?>
+            <div class="mask hm-black-light">
+                <div class="full-bg-img"></div>
+            </div>
+            <div class="carousel-caption">
+                <ul class="animated fadeInUp">
+                    <!-- <li><h2 class="h2-responsive">Matki Fod</h2></li> -->
                 </ul>
             </div>
         </div>

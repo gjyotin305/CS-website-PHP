@@ -62,69 +62,106 @@ body,
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(1) {
-        background: url("../images/res-hero/imageOne-540px.jpg") no-repeat center;
-        background-size: cover;
+        background: url("../images/res-hero/1a.jpg") no-repeat center;
+        /* background-width: 100%; */
+        /* background-size: cover; */
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(2) {
-        background: url("../images/res-hero/imageTwo-540px.jpg") no-repeat center;
-        background-size: cover;
+        background: url("../images/res-hero/1b.jpg") no-repeat center;
+        /* background-width: 100%; */
+        /* background-size: cover; */
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(3) {
-        background: url("../images/res-hero/imageThree-540px.jpg") no-repeat center;
+        background: url("../images/res-hero/2.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(4) {
-        background: url("../images/res-hero/imageFour-540px.jpg") no-repeat center;
+        background: url("../images/res-hero/3a.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(5) {
-        background: url("../images/res-hero/imageFive-540px.jpg") no-repeat center;
+        background: url("../images/res-hero/3b.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(6) {
-        background: url("../images/res-hero/imageSix-540px.jpg") no-repeat center;
+        background: url("../images/res-hero/3c.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(7) {
-        background: url("../images/res-hero/imageSeven-540px.jpg") no-repeat center;
+        background: url("../images/res-hero/3d.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(8) {
-        background: url("../images/res-hero/imageEight-540px.jpg") no-repeat center;
+        background: url("../images/res-hero/4a.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(9) {
-        background: url("../images/res-hero/imageNine-540px.jpg") no-repeat center;
+        background: url("../images/res-hero/4b.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(10) {
+        background: url("../images/res-hero/5.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (max-width: 540px) {
+    .carousel-item:nth-child(11) {
+        background: url("../images/res-hero/6.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (max-width: 540px) {
+    .carousel-item:nth-child(12) {
+        background: url("../images/res-hero/7.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (max-width: 540px) {
+    .carousel-item:nth-child(13) {
+        background: url("../images/res-hero/8.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (max-width: 540px) {
+    .carousel-item:nth-child(14) {
+        background: url("../images/res-hero/9.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (max-width: 540px) {
+    .carousel-item:nth-child(15) {
         background: url("../images/res-hero/imageTen-540px.jpg") no-repeat center;
         background-size: cover;
     }
@@ -132,63 +169,63 @@ body,
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(1) {
-        background: url("../images/res-hero/imageOne-1440px.jpg") no-repeat center;
+        background: url("../images/res-hero/1.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(2) {
-        background: url("../images/res-hero/imageTwo-1440px.jpg") no-repeat center;
+        background: url("../images/res-hero/2.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(3) {
-        background: url("../images/res-hero/imageThree-1440px.jpg") no-repeat center;
+        background: url("../images/res-hero/3.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(4) {
-        background: url("../images/res-hero/imageFour-1440px.jpg") no-repeat center;
+        background: url("../images/res-hero/4.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(5) {
-        background: url("../images/res-hero/imageFive-1440px.jpg") no-repeat center;
+        background: url("../images/res-hero/5.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(6) {
-        background: url("../images/res-hero/imageSix-1440px.jpg") no-repeat center;
+        background: url("../images/res-hero/6.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(7) {
-        background: url("../images/res-hero/imageSeven-1440px.jpg") no-repeat center;
+        background: url("../images/res-hero/7.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(8) {
-        background: url("../images/res-hero/imageEight-1440px.jpg") no-repeat center;
+        background: url("../images/res-hero/8.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(9) {
-        background: url("../images/res-hero/imageNine-1440px.jpg") no-repeat center;
+        background: url("../images/res-hero/9.jpg") no-repeat center;
         background-size: cover;
     }
 }
@@ -202,63 +239,63 @@ body,
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(1) {
-        background: url("../images/res-hero/imageOne-2160px.jpg") no-repeat center;
-        background-size: cover;
+        background: url("../images/res-hero/1.jpg") no-repeat center;
+        /* background-size: cover; */
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(2) {
-        background: url("../images/res-hero/imageTwo-2160px.jpg") no-repeat center;
+        background: url("../images/res-hero/2.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(3) {
-        background: url("../images/res-hero/imageThree-2160px.jpg") no-repeat center;
+        background: url("../images/res-hero/3.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(4) {
-        background: url("../images/res-hero/imageFour-2160px.jpg") no-repeat center;
+        background: url("../images/res-hero/4.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(5) {
-        background: url("../images/res-hero/imageFive-2160px.jpg") no-repeat center;
+        background: url("../images/res-hero/5.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(6) {
-        background: url("../images/res-hero/imageSix-2160px.jpg") no-repeat center;
+        background: url("../images/res-hero/6.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(7) {
-        background: url("../images/res-hero/imageSeven-2160px.jpg") no-repeat center;
+        background: url("../images/res-hero/7.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(8) {
-        background: url("../images/res-hero/imageEight-2160px.jpg") no-repeat center;
+        background: url("../images/res-hero/8.jpg") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(9) {
-        background: url("../images/res-hero/imageNine-2160px.jpg") no-repeat center;
+        background: url("../images/res-hero/9.jpg") no-repeat center;
         background-size: cover;
     }
 }
