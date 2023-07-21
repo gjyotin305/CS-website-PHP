@@ -62,7 +62,7 @@ body,
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(1) {
-        background: url("../images/res-hero/1a.jpg") no-repeat center;
+        background: url("../images/res-hero/1a.png") no-repeat center;
         /* background-width: 100%; */
         /* background-size: cover; */
     }
@@ -70,7 +70,7 @@ body,
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(2) {
-        background: url("../images/res-hero/1b.jpg") no-repeat center;
+        background: url("../images/res-hero/1b.png") no-repeat center;
         /* background-width: 100%; */
         /* background-size: cover; */
     }
@@ -78,63 +78,63 @@ body,
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(3) {
-        background: url("../images/res-hero/2.jpg") no-repeat center;
+        background: url("../images/res-hero/1c.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(4) {
-        background: url("../images/res-hero/3a.jpg") no-repeat center;
+        background: url("../images/res-hero/2a.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(5) {
-        background: url("../images/res-hero/3b.jpg") no-repeat center;
+        background: url("../images/res-hero/2b.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(6) {
-        background: url("../images/res-hero/3c.jpg") no-repeat center;
+        background: url("../images/res-hero/2c.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(7) {
-        background: url("../images/res-hero/3d.jpg") no-repeat center;
+        background: url("../images/res-hero/2d.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(8) {
-        background: url("../images/res-hero/4a.jpg") no-repeat center;
+        background: url("../images/res-hero/3a.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(9) {
-        background: url("../images/res-hero/4b.jpg") no-repeat center;
+        background: url("../images/res-hero/3b.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(10) {
-        background: url("../images/res-hero/5.jpg") no-repeat center;
+        background: url("../images/res-hero/4a.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (max-width: 540px) {
     .carousel-item:nth-child(11) {
-        background: url("../images/res-hero/6.jpg") no-repeat center;
+        background: url("../images/res-hero/4b.png") no-repeat center;
         background-size: cover;
     }
 }
@@ -169,28 +169,28 @@ body,
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(1) {
-        background: url("../images/res-hero/1.jpg") no-repeat center;
+        background: url("../images/res-hero/1.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(2) {
-        background: url("../images/res-hero/2.jpg") no-repeat center;
+        background: url("../images/res-hero/2.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(3) {
-        background: url("../images/res-hero/3.jpg") no-repeat center;
+        background: url("../images/res-hero/3.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(4) {
-        background: url("../images/res-hero/4.jpg") no-repeat center;
+        background: url("../images/res-hero/4.png") no-repeat center;
         background-size: cover;
     }
 }
@@ -237,30 +237,37 @@ body,
     }
 }
 
+@media (min-width: 541px) and (max-width: 1000px) {
+    .carousel-item:nth-child(10) {
+        background: url("../images/res-hero/6.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
 @media (min-width: 1001px) {
     .carousel-item:nth-child(1) {
-        background: url("../images/res-hero/1.jpg") no-repeat center;
-        /* background-size: cover; */
+        background: url("../images/res-hero/1.png") no-repeat center;
+        background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(2) {
-        background: url("../images/res-hero/2.jpg") no-repeat center;
+        background: url("../images/res-hero/2.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(3) {
-        background: url("../images/res-hero/3.jpg") no-repeat center;
+        background: url("../images/res-hero/3.png") no-repeat center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px) {
     .carousel-item:nth-child(4) {
-        background: url("../images/res-hero/4.jpg") no-repeat center;
+        background: url("../images/res-hero/4.png") no-repeat center;
         background-size: cover;
     }
 }
@@ -303,6 +310,13 @@ body,
 @media (min-width: 1001px) {
     .carousel-item:nth-child(10) {
         background: url("../images/res-hero/imageTen-2160px.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (min-width: 1001px) {
+    .carousel-item:nth-child(11) {
+        background: url("../images/res-hero/6.jpg") no-repeat center;
         background-size: cover;
     }
 }
@@ -411,21 +425,21 @@ img.img-logo {
 /*Parallax background*/
 @media (max-width: 540px){
     #section-1 .parallax-layer-back {
-        background: url("../images/gback-540.jpg")no-repeat center center;
+        background: url("../images/gback-540.png")no-repeat center center;
         background-size: cover;
     }
 }
 
 @media (min-width: 541px) and (max-width: 1000px){
     #section-1 .parallax-layer-back {
-        background: url("../images/gback-1440.jpg")no-repeat center center;
+        background: url("../images/gback-1440.png")no-repeat center center;
         background-size: cover;
     }
 }
 
 @media (min-width: 1001px){
     #section-1 .parallax-layer-back {
-        background: url("../images/gback-2160.jpg")no-repeat center center;
+        background: url("../images/gback-2160.png")no-repeat center center;
         background-size: cover;
     }
 }

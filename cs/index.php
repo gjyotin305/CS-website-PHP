@@ -39,6 +39,7 @@ include 'navbar.html';
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="7"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="8"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="9"></li>
+        <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="10"></li>
     </ol>
     <!--/.Indicators-->
  
@@ -198,6 +199,19 @@ include 'navbar.html';
             </div>
         </div>
         <!--/.Slide -->
+        <!--Slide -->
+        <div class="carousel-item view">
+        <?php
+            include 'callout.html';
+            ?>
+            <div class="mask hm-black-light">
+                <div class="full-bg-img"></div>
+            </div>
+            <div class="carousel-caption">
+                <ul class="animated fadeInUp">
+                </ul>
+            </div>
+        </div>
     </div>
     <!--/.Slides-->
 
