@@ -270,7 +270,7 @@ include 'navbar.html';
                             <li><a href="https://www.instagram.com/iit_jodhpur_freshers/">Instagram</a></li>
                             <li><a href="https://t.me/+dB9-CH4R39FkMGZI">Telegram</a></li>
                             <li><a href="https://www.facebook.com/groups/iitjff13/?ref=share">Facebook</a></li>
-                            <!-- <li>PHC Contact no. : </li> -->
+                            <li>PHC Contact no. : +91 291 280 1190 </li>
                         </ol>
                         </p>
                     </div>
