@@ -211,7 +211,7 @@ include 'navbar.html';
 
 
 
-        <div class="h5-responsive p-4">For further queries mail us at <a href="mailto:counselling@iitj.ac.in">counselling@iitj.ac.in</a></div>
+        <div class="h5-responsive p-4">For further queries mail us at <a href="mailto:wellbeing@iitj.ac.in">wellbeing@iitj.ac.in</a></div>
     </div>
 
 </section>

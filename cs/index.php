@@ -50,7 +50,7 @@ include 'navbar.html';
         <div class="carousel-item active view">
        
         <?php
-        include 'callout.html';
+        // include 'callout.html';
         ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img">
@@ -69,7 +69,7 @@ include 'navbar.html';
         <!--</slide>-->
         <div class="carousel-item view">
             <?php
-            include 'callout.html';
+            // include 'callout.html';
             ?>
 
 
@@ -78,14 +78,14 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <li><h2 class="h2-responsive">IIT Jodhpur</h2></li>
+                    <!-- <li><h2 class="h2-responsive">IIT Jodhpur</h2></li> -->
                 </ul>
             </div>
         </div>
         <!--Slide -->
         <div class="carousel-item view">
             <?php
-            include 'callout.html';
+            // include 'callout.html';
             ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img"></div>
@@ -101,7 +101,7 @@ include 'navbar.html';
 
         <div class="carousel-item view">
         <?php
-        include 'callout.html';
+        // include 'callout.html';
         ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img"></div>
@@ -115,7 +115,7 @@ include 'navbar.html';
 
         <div class="carousel-item view">
         <?php
-        include 'callout.html';
+        // include 'callout.html';
         ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img"></div>
@@ -129,7 +129,7 @@ include 'navbar.html';
 
         <div class="carousel-item view">
         <?php
-        include 'callout.html';
+        // include 'callout.html';
         ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img"></div>
@@ -143,7 +143,7 @@ include 'navbar.html';
         <!--Slide -->
         <div class="carousel-item view">
         <?php
-        include 'callout.html';
+        // include 'callout.html';
         ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img"></div>
@@ -157,7 +157,7 @@ include 'navbar.html';
         <!--/.Slide -->
         <div class="carousel-item view">
         <?php
-            include 'callout.html';
+            // include 'callout.html';
             ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img"></div>
@@ -172,7 +172,7 @@ include 'navbar.html';
         <!--Slide -->
         <div class="carousel-item view">
         <?php
-            include 'callout.html';
+            // include 'callout.html';
             ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img"></div>
@@ -187,7 +187,7 @@ include 'navbar.html';
         <!--Slide -->
         <div class="carousel-item view">
         <?php
-            include 'callout.html';
+            // include 'callout.html';
             ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img"></div>
@@ -202,7 +202,7 @@ include 'navbar.html';
         <!--Slide -->
         <div class="carousel-item view">
         <?php
-            include 'callout.html';
+            // include 'callout.html';
             ?>
             <div class="mask hm-black-light">
                 <div class="full-bg-img"></div>
@@ -270,6 +270,7 @@ include 'navbar.html';
                             <li><a href="https://www.instagram.com/iit_jodhpur_freshers/">Instagram</a></li>
                             <li><a href="https://t.me/+dB9-CH4R39FkMGZI">Telegram</a></li>
                             <li><a href="https://www.facebook.com/groups/iitjff13/?ref=share">Facebook</a></li>
+                            <!-- <li>PHC Contact no. : </li> -->
                         </ol>
                         </p>
                     </div>
@@ -293,7 +294,7 @@ include 'navbar.html';
                         </li> -->
                         <li>
                         Dear Students,<br>
-                        Congratulations on qualifying in JEE (Advanced) 2022 and thank you for choosing IIT Jodhpur. IIT<br>
+                        Congratulations on qualifying in JEE (Advanced) 2023 and thank you for choosing IIT Jodhpur. IIT<br>
                         Jodhpur welcomes you heartily.
                         </li>
                         <li>
