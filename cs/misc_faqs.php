@@ -109,7 +109,7 @@ include 'navbar.html';
                     Mess, canteen and fine dining as well as all the academic buildings are at walking distance
                     from the hostels. Owing to the small strength of students of IIT Jodhpur, we live like a family
                     here. Seniors and juniors have fostered an healthy interaction. IIT Jodhpur has four fests i.e.
-                    Spandan(Intra Cultural fest), Nimble(Intra Technical fest), Varchas(Inter Sports fest) and
+                    Spandan(Intra Cultural fest), Prometro(Intra Technical fest), Varchas(Inter Sports fest) and
                     Ignus(Inter Socio-Cultural Techfest). We have many clubs and societies which provide a platform
                     for students to learn and perform. It is ensured that everyone from all the disciples gets a
                     chance to actively participate in the clubs and fests here.
@@ -128,7 +128,7 @@ include 'navbar.html';
             </div>
             <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="heading5">
                 <div class="card-block">
-                    <strong>A.</strong>IIT Jodhpur has four fests i.e. Spandan(Cultural fest), Nimble(Tech fest),
+                    <strong>A.</strong>IIT Jodhpur has four fests i.e. Spandan(Cultural fest), Prometeo(Tech fest),
                     Varchas(Sports fest) and Ignus(Socio-Cultural Techfest). We have many clubs and societies
                     which provide a platform for students to learn and perform. Many inter hostel competitions
                     like Sports General Championship are organized. In addition to academic and campus life, IIT

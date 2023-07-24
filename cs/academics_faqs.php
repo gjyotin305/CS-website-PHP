@@ -29,7 +29,7 @@ include 'navbar.html';
     <p class="section-description"></p>
     <div class="accordion text-justify" id="accordion" role="tablist" aria-multiselectable="true">
 
-        <div class="card">
+        <!-- <div class="card">
             <div class="card-header" role="tab" id="heading1">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1"
                    aria-expanded="false" aria-controls="collapse1">
@@ -103,14 +103,14 @@ include 'navbar.html';
                     Bio Technology is new branch for academic year 2018.
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <div class="card">
             <div class="card-header" role="tab" id="heading2">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2"
                    aria-expanded="false" aria-controls="collapse2">
                     <h5 class="mb-0">
-                        <strong>Q.2 </strong>What is the Seat allocation procedure?
+                        <strong>Q.1 </strong>What is the Seat allocation procedure?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
                 </a>
@@ -118,7 +118,7 @@ include 'navbar.html';
             <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="heading2">
                 <div class="card-block">
                     <strong>A.</strong>
-                    JOSAA seat allocation will be conducted in 7 rounds in addition of two rounds of mock seat
+                    JOSAA seat allocation will be conducted in 6 rounds in addition of two rounds of mock seat
                     allocation. The student should have registered themselves and filled their choices to
                     participate in the seat allotment process. Next candidates will have to physically report
                     at their nearest reporting centers for document verification, and select their option among
@@ -131,7 +131,7 @@ include 'navbar.html';
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3"
                    aria-expanded="false" aria-controls="collapse3">
                     <h5 class="mb-0">
-                        <strong>Q.3 </strong> What are the different kinds of programs running at IIT Jodhpur?
+                        <strong>Q.2 </strong> What are the different kinds of programs running at IIT Jodhpur?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
                 </a>
@@ -146,7 +146,7 @@ include 'navbar.html';
                 </div>
             </div>
         </div>
-        <div class="card">
+        <!-- <div class="card">
             <div class="card-header" role="tab" id="heading4">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse4"
                    aria-expanded="false" aria-controls="collapse4">
@@ -257,13 +257,13 @@ include 'navbar.html';
                     Follow this link for further information: <a href="http://iitj.ac.in/faculty/" target="_blank">http://iitj.ac.in/faculty</a>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="card">
             <div class="card-header" role="tab" id="heading5">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse5"
                    aria-expanded="false" aria-controls="collapse5">
                     <h5 class="mb-0">
-                        <strong>Q.5 </strong>How do I fill up my choice for various undergraduate programs?
+                        <strong>Q.3 </strong>How do I fill up my choice for various undergraduate programs?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
                 </a>
@@ -279,7 +279,7 @@ include 'navbar.html';
                 </div>
             </div>
         </div>
-        <div class="card">
+        <!-- <div class="card">
             <div class="card-header" role="tab" id="heading6">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse6"
                    aria-expanded="false" aria-controls="collapse6">
@@ -331,13 +331,13 @@ include 'navbar.html';
                     Follow this link for further information: <a href="http://iitj.ac.in/academics/index.php?id=programs" target="_blank">http://iitj.ac.in/academics/index.php?id=programs</a>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="card">
             <div class="card-header" role="tab" id="heading7">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse7"
                    aria-expanded="false" aria-controls="collapse7">
                     <h5 class="mb-0">
-                        <strong>Q.7 </strong>Can I change my department post-admission?
+                        <strong>Q.4 </strong>Can I change my department post-admission?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
                 </a>
@@ -356,7 +356,7 @@ include 'navbar.html';
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse8"
                    aria-expanded="false" aria-controls="collapse8">
                     <h5 class="mb-0">
-                        <strong>Q.8 </strong>How easy is the branch change in IIT Jodhpur? What is the criterion
+                        <strong>Q.5 </strong>How easy is the branch change in IIT Jodhpur? What is the criterion
                         for the same?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
@@ -387,7 +387,7 @@ include 'navbar.html';
                 </div>
             </div>
         </div>
-        <div class="card">
+        <!-- <div class="card">
             <div class="card-header" role="tab" id="heading9">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse9"
                    aria-expanded="false" aria-controls="collapse9">
@@ -423,13 +423,13 @@ include 'navbar.html';
                         http://iitj.ac.in/academics/index.php?id=curriculum</a>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="card">
             <div class="card-header" role="tab" id="heading10">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse10"
                    aria-expanded="false" aria-controls="collapse10">
                     <h5 class="mb-0">
-                        <strong>Q.10 </strong>Will we be buying books or we can get them from the library?
+                        <strong>Q.6 </strong>Will we be buying books or we can get them from the library?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
                 </a>
@@ -449,7 +449,7 @@ include 'navbar.html';
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11"
                    aria-expanded="false" aria-controls="collapse11">
                     <h5 class="mb-0">
-                        <strong>Q.11 </strong> What about laboratories & research facilities of IIT Jodhpur?
+                        <strong>Q.7 </strong> What about laboratories & research facilities of IIT Jodhpur?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
                 </a>
@@ -484,7 +484,7 @@ include 'navbar.html';
 
 
 
-        <div class="h5-responsive p-4">For further queries mail us at <a href="mailto:counselling@iitj.ac.in">counselling@iitj.ac.in</a></div>
+        <div class="h5-responsive p-4">For further queries mail us at <a href="mailto:wellbeing@iitj.ac.in">wellbeing@iitj.ac.in</a></div>
     </div>
 </section>
 <!-- JQuery -->

@@ -355,7 +355,7 @@ include 'navbar.html';
             <div id="collapse13" class="collapse" role="tabpanel" aria-labelledby="heading13">
                 <div class="card-block">
                     <strong>A. </strong>
-                    We have got an SBI bank branch within the campus and also an ATM.
+                    We have got an SBI bank branch and Canera bank branch within the campus and also an ATM.
                 </div>
             </div>
         </div>
@@ -495,7 +495,7 @@ include 'navbar.html';
                 </div>
             </div>
         </div>
-        <div class="card">
+        <!-- <div class="card">
             <div class="card-header" role="tab" id="heading19">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse19"
                    aria-expanded="false" aria-controls="collapse19">
@@ -539,13 +539,13 @@ include 'navbar.html';
                     http://spc.iitj.ac.in/summary</a>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="card">
             <div class="card-header" role="tab" id="heading20">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse20"
                    aria-expanded="false" aria-controls="collapse20">
                     <h5 class="mb-0">
-                        <strong>Q.20 </strong>Which are the companies that have offered placement to students?
+                        <strong>Q.19 </strong>Which are the companies that have offered placement to students?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
                 </a>
@@ -591,7 +591,7 @@ include 'navbar.html';
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse21"
                    aria-expanded="false" aria-controls="collapse21">
                     <h5 class="mb-0">
-                        <strong>Q.21 </strong>What kind of training do the students get for their internships?
+                        <strong>Q.20 </strong>What kind of training do the students get for their internships?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
                 </a>
@@ -610,7 +610,7 @@ include 'navbar.html';
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22"
                    aria-expanded="false" aria-controls="collapse22">
                     <h5 class="mb-0">
-                        <strong>Q.22 </strong> Are there any mentorship program available for students?
+                        <strong>Q.21 </strong> Are there any mentorship program available for students?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
                 </a>
@@ -623,7 +623,7 @@ include 'navbar.html';
                 </div>
             </div>
         </div>
-        <div class="card">
+        <!-- <div class="card">
             <div class="card-header" role="tab" id="heading23">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse23"
                    aria-expanded="false" aria-controls="collapse23">
@@ -641,13 +641,13 @@ include 'navbar.html';
                     43 girls were studying in the UG program.
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="card">
             <div class="card-header" role="tab" id="heading24">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse24"
                    aria-expanded="false" aria-controls="collapse24">
                     <h5 class="mb-0">
-                        <strong>Q.24 </strong>How many girls’ hostels are in IIT Jodhpur campus? Will all first
+                        <strong>Q.22 </strong>How many girls’ hostels are in IIT Jodhpur campus? Will all first
                         year female students get accommodation in the same hostel?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
@@ -656,7 +656,7 @@ include 'navbar.html';
             <div id="collapse24" class="collapse" role="tabpanel" aria-labelledby="heading24">
                 <div class="card-block">
                     <strong>A. </strong>
-                    Currently there is one girls' hostel in IIT Jodhpur. Yes, all the first year female
+                    Currently there is three girls' hostel in IIT Jodhpur. Yes, all the first year female
                     students will get accommodation in  the same hostel.
                 </div>
             </div>
@@ -666,7 +666,7 @@ include 'navbar.html';
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse25"
                    aria-expanded="false" aria-controls="collapse25">
                     <h5 class="mb-0">
-                        <strong>Q.25 </strong>Is it safe for female students to roam around in the IIT
+                        <strong>Q.23 </strong>Is it safe for female students to roam around in the IIT
                         Jodhpur campus and nearby places?
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
@@ -689,7 +689,7 @@ include 'navbar.html';
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse26"
                    aria-expanded="false" aria-controls="collapse26">
                     <h5 class="mb-0">
-                        <strong>Q.26 </strong> Is there any club or something specially for female students?
+                        <strong>Q.24 </strong> Is there any club or something specially for female students?
                         (I.e. about Women Cell)
                         <i class="fa fa-angle-down rotate-icon"></i>
                     </h5>
