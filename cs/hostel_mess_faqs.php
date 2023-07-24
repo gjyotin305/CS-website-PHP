@@ -100,7 +100,7 @@ include 'navbar.html';
             </div>
             <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="heading5">
                 <div class="card-block">
-                    <strong>A.</strong>Hostel gates remain closed from 12 AM to 5 AM. However, one is not allowed
+                    <strong>A.</strong>Hostel gates remain closed from 2 AM to 6 AM. However, one is not allowed
                     to go out of campus after 10 PM and get inside of the campus after 11 PM without due permission
                     from the competent authority.
                 </div>
