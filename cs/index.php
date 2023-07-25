@@ -59,8 +59,8 @@ include 'navbar.html';
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
                     <li>
-                        <h2 class="h2-responsive">Student Wellbeing Committee</h2>
-                        <h4 class="h4-responsive">IIT Jodhpur</h4>
+                        <!-- <h2 class="h2-responsive">Student Wellbeing Committee</h2>
+                        <h4 class="h4-responsive">IIT Jodhpur</h4> -->
                     </li>
                 </ul>
             </div>
@@ -266,10 +266,10 @@ include 'navbar.html';
                             <li><a href="cs_team_ug_2023.php">UG Team</a></li>
                             <li><a href="cs_team_pg_2022.php">PG Team</a></li>
                             <li><a href="general_faqs.php">General Queries</a></li>
-                            <li><a href="https://discord.gg/n9bHXwhFTZ">Discord Server</a></li>
-                            <li><a href="https://www.instagram.com/iit_jodhpur_freshers/">Instagram</a></li>
-                            <li><a href="https://t.me/+dB9-CH4R39FkMGZI">Telegram</a></li>
-                            <li><a href="https://www.facebook.com/groups/iitjff13/?ref=share">Facebook</a></li>
+                            <li><a href="https://discord.gg/TNXMMFWD">Discord Server</a></li>
+                            <li><a href="https://instagram.com/iit_jodhpur_freshers?igshid=MzRlODBiNWFlZA">Instagram</a></li>
+                            <li><a href="https://t.me/+V7q3BBABj7Y2ZDZl">Telegram</a></li>
+                            <li><a href="https://www.facebook.com/SWC.IITJodhpur?mibextid=ZbWKwL">Facebook</a></li>
                             <li>PHC Contact no. : +91 291 280 1190 </li>
                         </ol>
                         </p>
@@ -302,7 +302,7 @@ include 'navbar.html';
                             <img src ="images\newicon.gif">
                         </li>
                         <li>
-                        In case of any queries feel free to contact <a href="http://swc.iitj.ac.in/cs_team_ug_2022.php" target="_blank">Our Team</a> 
+                        In case of any queries feel free to contact <a href="http://swc.iitj.ac.in/cs_team_ug_2023.php" target="_blank">Our Team</a> 
                             <img src ="images\newicon.gif">
                         </li>
                     </ol>
