@@ -140,7 +140,7 @@ include 'navbar.html';
                 <div class="card-block">
                     <strong>A.</strong>
                     You can find all the programs at IIT Jodhpur here :
-                    <a href="http://iitj.ac.in/academics/index.php?id=programs" target="_blank">
+                    <a href="https://iitj.ac.in/academics/index.php?id=programs" target="_blank">
                         http://iitj.ac.in/academics/index.php?id=programs
                     </a>
                 </div>
@@ -279,7 +279,7 @@ include 'navbar.html';
                 </div>
             </div>
         </div>
-        <!-- <div class="card">
+        <div class="card">
             <div class="card-header" role="tab" id="heading6">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse6"
                    aria-expanded="false" aria-controls="collapse6">
@@ -292,12 +292,16 @@ include 'navbar.html';
             <div id="collapse6" class="collapse" role="tabpanel" aria-labelledby="heading6">
                 <div class="card-block">
                     <strong>A.</strong>
-                    The Institute provide four B.Tech. Programs, namely:
+                    The Institute provides many B.Tech. Programs, namely:
                     <ol type="1">
                         <li>B.Tech. (Computer Science & Engineering) Program</li>
                         <li>B.Tech. (Electrical Engineering) Program</li>
                         <li>B.Tech. (Mechanical Engineering) Program</li>
                         <li>B.Tech. (Biotechnology) Program</li>
+                        <li>B.Tech. (Artificial Intelligence and DataScience) Program</li>
+                        <li>B.Tech. (Chemical Engineering) Program</li>
+                        <li>B.Tech. (Materials Engineering) Program</li>
+                        <li>B.Tech. (Civil and Infrastructure Engineering) Program</li>
                     </ol>
                     Other than these we have special program IIP, The Industry Immersion Program,
                     the unique flagship program of the Institute blends the classical classroom B.Tech.
@@ -328,10 +332,10 @@ include 'navbar.html';
                     </ol>
                     Institute also provide non degree program.
                     <br>
-                    Follow this link for further information: <a href="http://iitj.ac.in/academics/index.php?id=programs" target="_blank">http://iitj.ac.in/academics/index.php?id=programs</a>
+                    Follow this link for further information: <a href="https://iitj.ac.in/academics/index.php?id=acad_program&&prog=46" target="_blank">http://iitj.ac.in/academics/index.php?id=programs</a>
                 </div>
             </div>
-        </div> -->
+        </div>
         <div class="card">
             <div class="card-header" role="tab" id="heading7">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse7"
@@ -347,6 +351,8 @@ include 'navbar.html';
                     <strong>A.</strong>
                     Yes, you can change your branch post admission. At the end of your first year you can apply
                     for the branch change.
+                    <br>
+                    Follow this link for further information: <a href="https://iitj.ac.in/admission/casual.php?id=registration_academic_session#:~:text=Program%2C%20can%20I%20change%20my,the%20applicants%20will%20be%20considered.">Branch-Queries</Branch-Queries></a>
                     </a>
                 </div>
             </div>
@@ -387,7 +393,7 @@ include 'navbar.html';
                 </div>
             </div>
         </div>
-        <!-- <div class="card">
+        <div class="card">
             <div class="card-header" role="tab" id="heading9">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse9"
                    aria-expanded="false" aria-controls="collapse9">
@@ -401,29 +407,14 @@ include 'navbar.html';
                 <div class="card-block">
                     <strong>A.</strong>
                     In 1st semester of B.Tech most of the courses are common for all branches. As per previous year,
-                    the common courses for mechanical, electrical and computer science branches are
-                    <ol type="1">
-                        <li>MA111 Linear Algebra and Calculus</li>
-                        <li>ME111 System Exploration - Drawing</li>
-                        <li>CS111 Computer Programming</li>
-                        <li>HS111 English/Foreign Language</li>
-                        <li>PH111 Physical Excercise I</li>
-                        <li>
-                            PH111 Electromagnetism and Optics (For CSE and EE student)<br>
-                            ME112 engineering Materials (For ME student)
-                        </li>
-                        <li>
-                            CY211 chemistry (For CSE and ME students) <br>
-                            EE111 Physics of Semiconductor Devices (For EE students)
-                        </li>
-                    </ol>
-                    The curriculum for Biotechnology will be updated shortly. <br>
+                    the common courses for mechanical, electrical,computer science,etc.
+                    
                     Follow this link for further information-
-                    <a href="http://iitj.ac.in/academics/index.php?id=curriculum" target="_blank">
+                    <a href="https://172.16.100.161/acad_website/ug_curriculum/1ST%20YEAR%20Curriculum%20updated%2025.3.22.htm" target="_blank">
                         http://iitj.ac.in/academics/index.php?id=curriculum</a>
                 </div>
             </div>
-        </div> -->
+        </div>
         <div class="card">
             <div class="card-header" role="tab" id="heading10">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse10"
@@ -471,9 +462,11 @@ include 'navbar.html';
                         <li>Robotics Laboratory</li>
                         <li>Fluid Mechanics & Heat Transfer Laboratory</li>
                         <li>Material Testing & Solid Mechanics Laboratory</li>
+                        <li>Samsung AR-VR Innovation Laboratory</li>
+                        <li>Tinkering Lab</li>
                     </ol>
                     Follow this link for further information-
-                    <a href="http://iitj.ac.in/research/index.php?id=research_facilities" target="_blank">
+                    <a href="https://iitj.ac.in/research/index.php?id=research_facilities" target="_blank">
                         http://iitj.ac.in/research/index.php?id=research_facilities
                     </a>
                 </div>
