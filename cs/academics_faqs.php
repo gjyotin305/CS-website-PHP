@@ -140,7 +140,7 @@ include 'navbar.html';
                 <div class="card-block">
                     <strong>A.</strong>
                     You can find all the programs at IIT Jodhpur here :
-                    <a href="http://iitj.ac.in/academics/index.php?id=programs" target="_blank">
+                    <a href="https://iitj.ac.in/academics/index.php?id=programs" target="_blank">
                         http://iitj.ac.in/academics/index.php?id=programs
                     </a>
                 </div>
@@ -299,6 +299,9 @@ include 'navbar.html';
                         <li>B.Tech. (Mechanical Engineering) Program</li>
                         <li>B.Tech. (Biotechnology) Program</li>
                         <li>B.Tech. (Artificial Intelligence and DataScience) Program</li>
+                        <li>B.Tech. (Chemical Engineering) Program</li>
+                        <li>B.Tech. (Materials Engineering) Program</li>
+                        <li>B.Tech. (Civil and Infrastructure Engineering) Program</li>
                     </ol>
                     Other than these we have special program IIP, The Industry Immersion Program,
                     the unique flagship program of the Institute blends the classical classroom B.Tech.
@@ -407,7 +410,7 @@ include 'navbar.html';
                     the common courses for mechanical, electrical,computer science,etc.
                     
                     Follow this link for further information-
-                    <a href="http://172.16.100.161/acad_website/ug_curriculum/1ST%20YEAR%20Curriculum%20updated%2025.3.22.htm" target="_blank">
+                    <a href="https://172.16.100.161/acad_website/ug_curriculum/1ST%20YEAR%20Curriculum%20updated%2025.3.22.htm" target="_blank">
                         http://iitj.ac.in/academics/index.php?id=curriculum</a>
                 </div>
             </div>
@@ -463,7 +466,7 @@ include 'navbar.html';
                         <li>Tinkering Lab</li>
                     </ol>
                     Follow this link for further information-
-                    <a href="http://iitj.ac.in/research/index.php?id=research_facilities" target="_blank">
+                    <a href="https://iitj.ac.in/research/index.php?id=research_facilities" target="_blank">
                         http://iitj.ac.in/research/index.php?id=research_facilities
                     </a>
                 </div>
