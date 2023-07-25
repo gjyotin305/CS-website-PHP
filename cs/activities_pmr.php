@@ -3,7 +3,7 @@ include 'head.html';
 ?>
 
 <head>
-    <title>CS team - PG</title>
+    <title>Gallery</title>
 </head>
 
 <body>
@@ -29,6 +29,475 @@ include 'head.html';
                         </li>
                     </ul>
                 </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Letter to Your Future Self
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The letter-to-future-self event organized by the SWC proved to be an enriching and thought-provoking experience for the IIT Junta. The act of writing a letter to one's future is self-served as a powerful tool for self-reflection and goal setting. Students actively engaged in the process, utilizing the postcards distributed and dropboxes set up at three different locations. The event provided a unique opportunity for students to connect with their future selves, gaining insights into their aspirations and values. Participants reported feeling inspired and motivated to work towards their goals, having gained a newfound clarity on their personal and professional trajectories. Overall, the letter-to-future-self event was a resounding success, leaving a lasting impact on the IIT community.
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/letter_to_future_self_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Meditation with Music
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The students who attended the meditation and sound therapy event organized by SWC had a deeply relaxing and rejuvenating experience. The SAVAMSM team's various healing techniques and meditation types helped the students to release their stress and anxiety, leaving them feeling refreshed and energized. Overall, the event was well-received by the students and served as a helpful tool for their mental well-being.
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/meditation_with_music2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    World Mental Health Day
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The World Mental Health Day event organized by the SWC provided an excellent opportunity for IITJ students to break the stigma related to mental health. Students were asked to pass on the Green Ribbon to other members as a symbol of support and awareness. This initiative encouraged students to start a dialogue regarding mental health and illness, and share their warm and kind words. It was heartening to see the students filling up blank sheets with messages of hope, support, and encouragement. The event was successful in creating a safe and supportive environment for students to express their thoughts and feelings regarding mental health, and it was an important step toward promoting mental well-being on campus.
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/mental_health_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Burn your own Ravana
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The event organized by the SWC proved to be a cathartic experience for the students, as it gave them a platform to share their stressors and negative experiences. The symbolic activity of burning the negative energies inside of us helped them collectively incinerate all the unpleasant experiences, leaving them feeling lighter and more positive. The venue, Ground Front of LHC, provided a conducive environment for the students to come together and support each other through their struggles. Overall, the event was a success in helping the students deal with their emotional baggage and promoting a sense of community and healing.
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/burn_your_ravan_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Farewell of UG team
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>Farewell was given to the students who were a part of 
+                            the Student Wellbeing Team. The team members were recognized for their contributions and 
+                            hard work and were given certificates as a token of appreciation. During the farewell, they were 
+                            thanked for their dedication and commitment to promoting a culture of well-being within the student
+                             community. The students' efforts in organizing various events and initiatives that aimed to foster a 
+                             supportive environment for their peers were applauded. The farewell was a heartfelt way of expressing
+                              gratitude and acknowledging the significant impact that the team members had on the student body.
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/team_farewell_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Gratitude day
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The event organized by SWC proved to be an excellent opportunity 
+                            for students to express gratitude towards their peers, mentors, and seniors. 
+                            The postcard activity fostered a sense of appreciation and belonging amongst 
+                            the attendees, and the evening was filled with fun and laughter. The poetry and
+                             open mic session allowed students to showcase their talents and creativity, and
+                              it was heartwarming to see everyone support and encourage each other. 
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/gratitude_day_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Freshanza
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The Fresher's event organized by the UG team provided a great opportunity for the new 
+                            batches to showcase their talent and get to know each other in a better way. The event 
+                            was marked by various competitions, including dance, music, and drama, where the students
+                             actively participated and displayed their creative abilities. The students had an enjoyable
+                              and enriching experience, as they got to interact with their peers and learn more about the
+                               college culture. The event was a grand success, and it helped in creating a positive and 
+                               inclusive environment for the new students.
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/freshenza_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Open-Air Theatre
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The Student Welfare Committee (SWC) organized a movie screening of "3 Idiots" 
+                            to celebrate Happiness Day, providing a platform for students to spend quality 
+                            time with their peers. The event also served as a unique way for students to 
+                            celebrate Holi, the festival of colors. The students enjoyed the evening with laughter 
+                            and amusement, making the SWC feel like a "home away from home." Overall, the event was
+                             a success, providing a fun-filled experience for all who attended.
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/open_air_theatre2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Balancing Acts: Conquering College Challenges and Mastering Time
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>In a captivating session titled "Balancing Acts: Conquering College Challenges and Mastering Time," 
+                            a group of undergraduate students came together to address the crucial topic of time management in 
+                            their college lives. With enthusiasm and candor, the students shared their experiences, highlighting 
+                            the struggles they faced in achieving academic excellence while pursuing their other life goals.This 
+                            session aimed to shed light on these challenges and equip students with practical strategies to thrive 
+                            in their academic journey, while staying true to their broader aspirations.</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/balancing_arts2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    CELEBRATION OF INTERNATIONAL DAY OF YOGA (2023) IN PHC, IIT-J
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>To commemorate the International Day of Yoga (21st June 2023), a spontaneous Yog activity was demonstrated by Mr Akash Vishwakarma. A short yoga protocol “Yoga Break @Workplace” module was taken, which is developed by Dr. Ishwar V Basavaraddi (Director, Morarji Desai National Institute of Yoga, New Delhi) and others. The activity which was used in this was 1- Tadasana & Urdhva-hasttotanasana, 2- Uttana-Mandukasana, Shoulder Rotation, 3- Kati Chakrasana.
+                             The activity took place in PHC waiting Hall, and all the PHC staff actively participated.</p>
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/yoga_day_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    RECLAIMING LIFE: CONFRONTING DRUG ABUSE
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>As directed by the Ministry of Education to organize various events during "Nasha Mukt Bharat Pakhwada", the Counseling Team, under the Student Wellbeing Committee of IIT Jodhpur conducted a Webinar to promote awareness about drugs and their related impact on the body, mind and overall social lifestyle. </p>
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/reclaiming_life/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+<!-- new website above this comment -->
+
                 <div class="row flex-center mt-4">
                     <h3>
                         Freshanza
@@ -206,58 +675,6 @@ include 'head.html';
 
                 <div class="row flex-center mt-4">
                     <h3>
-                        Farewell of UG team
-                    </h3>
-                    <div style="height:100px"></div>
-
-                    <div style="text-align: left;">
-                        <p>Farewell was given to the students who were a part of the Student Wellbeing Team. The team
-                            members
-                            were recognized for their contributions and hard work and were given certificates as a token
-                            of
-                            appreciation. During the farewell, they were thanked for their dedication and commitment to
-                            promoting a
-                            culture of well-being within the student community. The students' efforts in organizing
-                            various events and
-                            initiatives that aimed to foster a supportive environment for their peers were applauded.
-                            The farewell was
-                            a heartfelt way of expressing gratitude and acknowledging the significant impact that the
-                            team members
-                            had on the student body.</p>
-
-                    </div>
-
-                    <div style="height:50px"></div>
-                </div>
-                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
-                    <div class="col-md-12">
-                        <div class="mdb-lightbox">
-                            <div class="row flex-center">
-                                <?php
-                                $dir = './images2/ug_farewell22/';
-                                $dir_open = opendir($dir);
-
-                                while (false !== ($filename = readdir($dir_open))) {
-                                    if ($filename != "." && $filename != "..") {
-                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
-                        <a href='$dir$filename' data-size=\"1600x1067\">
-                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
-                        </a>
-                    </figure>
-                    ";
-                                        echo $link;
-                                    }
-                                }
-
-                                closedir($dir_open);
-                                ?>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row flex-center mt-4">
-                    <h3>
                         CommuniFun: Cracking the Code of Engaging Communication
                     </h3>
                     <div style="height:100px"></div>
@@ -318,6 +735,88 @@ include 'head.html';
 
                     <!--Panel 1-->
                 </div>
+
+                
+                <div class="row flex-center mt-4">
+                    <h3>
+                    PG Orientation 2023
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The PG Orientation program organized by the SWC PG team at IIT Jodhpur was a great opportunity for the newly admitted students to understand the culture and growth prospects offered by the institution. The program included briefings on various opportunities, rules, responsibilities, and the system's hierarchy, providing students with valuable insights into how the institution operates. The event featured introductory talks by Deans of various verticals, which helped students to understand the various avenues available to them for growth and development. Held in the Seminar Hall of the CSE Department, the program was a great success in ensuring that the newly admitted students were well-informed and prepared to take on the challenges and opportunities that awaited them at IIT Jodhpur.
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/PG_orientation_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="row flex-center mt-4">
+                    <h3>
+                    INTERACTIVE EVENT FOR Ph.D. STUDENTS
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>Balancing research, coursework and personal commitments in the lives of graduate students is no easy task. Since the Ph.D. journey can, at times, feel lonely, they need to be reassured about the available support. Recognizing this need, the Counselling Team from IIT Jodhpur conducted an interactive session with Ph.D students, titled, “Lose your mind and come to your senses.” It was conducted by the Institute Counsellors (Dr. Anjali Bhatia and Mr. Akash Vishwakarma) and Wellbeing Moderator (Ms. Anannya Sharma).</p>
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/interactive_session_phd/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="row flex-center mt-4">
                     <h3>
                         Underneath the Stars
