@@ -281,17 +281,6 @@ include 'navbar.html';
                 <div class="text-justify card " role="list" style="height: 22rem;">
                     <h3 class="h3-responsive card-header">Announcements</h4></h3>
                     <ol class="card-block pl-5" style="overflow-y: scroll;">
-                        <!-- <li>
-                            A help desk will be there on the <b>Platform No. 1 on Jodhpur Jn.(Railway Station).</b> The buses will be
-                            arranged from the MBM Engineering College to IIT Jodhpur Permanent Campus(Karwar) via Railway Station on 22nd
-                            July 2018. To know more <a href="bus_schedule.php">click here</a>.
-                        </li>
-                        <br>
-                        <li>All those who are not able to pay the fee using online payment portal i.e. Credit/Debit
-                            Card or Net banking can pay the fee by making two separate Demand Drafts(DD) for the Semester
-                            Fee and the Mess Fee in the favour of <b><u>Fees Collection Account IIT Jodhpur</u></b>
-                            payable at IIT Jodhpur.
-                        </li> -->
                         <li>
                         Dear Students,<br>
                         Congratulations on qualifying in JEE (Advanced) 2023 and thank you for choosing IIT Jodhpur. IIT<br>
