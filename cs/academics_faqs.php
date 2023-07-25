@@ -292,7 +292,7 @@ include 'navbar.html';
             <div id="collapse6" class="collapse" role="tabpanel" aria-labelledby="heading6">
                 <div class="card-block">
                     <strong>A.</strong>
-                    The Institute provide four B.Tech. Programs, namely:
+                    The Institute provides many B.Tech. Programs, namely:
                     <ol type="1">
                         <li>B.Tech. (Computer Science & Engineering) Program</li>
                         <li>B.Tech. (Electrical Engineering) Program</li>
