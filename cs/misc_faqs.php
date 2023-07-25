@@ -225,64 +225,11 @@ include 'navbar.html';
 <!--Bootstrap Core-->
 <script type="text/javascript" src="js/compiled.min.js"></script>
 <!--Footer-->
-<footer class="page-footer center-on-small-only blue-grey darken-4">
-
-    <!--Footer Links-->
-    <div class="container-fluid">
-        <div class="row">
-
-            <!--First column-->
-            <div class="col-md-5 offset-md-2">
-                <h5 class="title">CS - IITJ</h5>
-                <p>IIT Jodhpur Student Wellbeing Committee team will be happy to help you anytime.</p>
-                <p>Join our freshers' forum:</p>
-                <a class="btn btn-lg btn-fb" role="button"
-                   href="https://www.facebook.com/profile.php?id=534300236607966" target="_blank"><i
-                        class="fa fa-facebook left"></i> Freshers' Forum</a>
-            </div>
-            <!--/.First column-->
-
-            <hr class="hidden-md-up">
-
-            <!--Second column-->
-            <div class="col-md-3 offset-md-1">
-                <h5 class="title">Quick Links</h5>
-                <ul>
-                    <li><a target="_blank" href="http://iitj.ac.in/">IIT Jodhpur</a></li>
-                    <li><a target="_blank" href="https://discord.com/invite/TNXMMFWD">Discord</a></li>
-                    <li><a target="_blank" href="https://www.instagram.com/iit_jodhpur_freshers/?igshid=MzRlODBiNWFlZA">Instagram</a></li>
-
-                </ul>
-            </div>
-            <!--/.Second column-->
-
-        </div>
-    </div>
-    <!--/.Footer Links-->
-
-    <hr>
-
-    <!--Social buttons-->
-    <div class="social-section">
-        <ul>
-            <li><a target="_blank" class="btn-floating btn-small btn-fb"
-                   href="https://www.facebook.com/SWC.IITJodhpur/"><i class="fa fa-facebook"> </i></a>
-            </li>
-        </ul>
-    </div>
-    <!--/.Social buttons-->
-
-    <!--Copyright-->
-    <div class="footer-copyright">
-        <div class="container-fluid">
-            © 2018 Copyright: <a href="index.php">Student Wellbeing Committee - IIT Jodhpur </a>
-
-        </div>
-    </div>
-    <!--/.Copyright-->
-
-</footer>
+<?php
+include 'footer.html';
+?>
 <!--/.Footer-->
+
 
 </body>
 </html>
