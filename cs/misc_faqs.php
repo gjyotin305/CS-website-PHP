@@ -64,10 +64,9 @@ include 'navbar.html';
                     To get the exact fee structure(Academic + Mess) one can visit home page of IITJ and check for
                     fee under academics section. The total(Academic +Mess) fee that a fresher needs to pay will vary
                     according to the category to which one belongs and on the monthly income of the household of
-                    student(some concessions are provided if the household income is less than 5 lpa). An amount
-                    of Rs. Rs. 12000 has to be paid in advance at the start of each semester. Excluding fees few
+                    student(some concessions are provided if the household income is less than 5 lpa). Excluding fees few
                     stationaries are required in first semester which are available within the campus which costs
-                    around 200-300 Rs and other expenses vary from student to student.
+                    around Rs 500-600 and other expenses vary from student to student.
                 </div>
             </div>
         </div>
@@ -151,8 +150,9 @@ include 'navbar.html';
                 <div class="card-block">
                     <strong>A.</strong>One room for one student with centralised ACs is the facility provided only
                     in IITJ. Along with this Primary Health center(PHC) provides 24*7 medical facilities to all
-                    students. Security is strictly maintained within the campus and bus facility is also available
-                    for students to help them move to different places in Jodhpur.
+                    students. The institite also provides access to The AVINSA Tinkering Lab where the students can
+                    turn their technological visions into reality. Security is strictly maintained within the campus
+                    and bus facility is also available for students to help them move to different places in Jodhpur.
                 </div>
             </div>
         </div>
@@ -172,7 +172,8 @@ include 'navbar.html';
                     to learn and perform. Additionally, various inter hostel competitions are organized to develop
                     competitive spirit and leadership qualities among the students. All the major festivals are
                     celebrated with great enthusiasm. Every hostel has a sports room and a court within it. There
-                    are various outdoor courts and fields in addition to those in hostels.
+                    are various outdoor courts and fields in addition to those in hostels. The Institute has beautiful
+                    sports grounds, with flood lights in football and hockey grounds.
                 </div>
             </div>
         </div>
@@ -191,12 +192,15 @@ include 'navbar.html';
                     <strong>A.</strong>IIT Jodhpur currently has the following sports under the aegis of the Student
                     Sports and Games Society
                     <ol>
+                        <li>Football</li>
                         <li>Basketball</li>
                         <li>Volleyball</li>
                         <li>Tennis</li>
                         <li>Cricket</li>
                         <li>Table tennis</li>
-                        <li>Football</li>
+                        <li>Badminton</li>
+                        <li>Squash</li>
+                        
                     </ol>
                     There is separate teams for boys and girls who prepare with all their blood and sweat to bring
                     laurels to the institute in the Annual Inter IIT Sports meet.
@@ -245,8 +249,8 @@ include 'navbar.html';
                 <h5 class="title">Quick Links</h5>
                 <ul>
                     <li><a target="_blank" href="http://iitj.ac.in/">IIT Jodhpur</a></li>
-                    <li><a target="_blank" href="http://students.iitj.ac.in/">Students' Gymkhana</a></li>
-                    <li><a target="_blank" href="http://ignus.org/">Ignus</a></li>
+                    <li><a target="_blank" href="https://discord.com/invite/TNXMMFWD">Discord</a></li>
+                    <li><a target="_blank" href="https://www.instagram.com/iit_jodhpur_freshers/?igshid=MzRlODBiNWFlZA">Instagram</a></li>
 
                 </ul>
             </div>
