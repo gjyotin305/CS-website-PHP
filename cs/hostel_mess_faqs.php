@@ -42,7 +42,7 @@ include 'navbar.html';
                 <div class="card-block">
                     <strong>A.</strong>
                     You can start staying in the hostel rooms just after you report to the institute on the reporting
-                    date. You are not allowed to stay in the hostel rooms before the reporting date.
+                    date(31st July 2023). You are not allowed to stay in the hostel rooms before the reporting date.
                 </div>
             </div>
         </div>
@@ -63,7 +63,7 @@ include 'navbar.html';
                     bring few set of FORMALS for orientation programs, shorts/track pants and a pair of sports shoes
                     for the Compulsory Physical Activities(CPA). One can also bring a lab coat ,drafter and
                     scientific calculator which would be useful in certain courses in the first year or buy them
-                    from the shops in institute itself.
+                    from the shops in our institute itself.
                 </div>
             </div>
         </div>
@@ -100,7 +100,7 @@ include 'navbar.html';
             </div>
             <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="heading5">
                 <div class="card-block">
-                    <strong>A.</strong>Hostel gates remain closed from 2 AM to 6 AM. However, one is not allowed
+                    <strong>A.</strong>Hostel gates remain closed from 2 AM to 5 AM. However, one is not allowed
                     to go out of campus after 10 PM and get inside of the campus after 11 PM without due permission
                     from the competent authority.
                 </div>
@@ -190,7 +190,7 @@ include 'navbar.html';
     <!--Copyright-->
     <div class="footer-copyright">
         <div class="container-fluid">
-            © 2018 Copyright: <a href="index.php">Student Wellbeing Committee - IIT Jodhpur </a>
+            © 2023 Copyright: <a href="index.php">Student Wellbeing Committee - IIT Jodhpur </a>
 
         </div>
     </div>

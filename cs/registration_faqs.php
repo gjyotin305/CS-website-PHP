@@ -28,7 +28,7 @@ include 'navbar.html';
     <p class="section-description"></p>
     <div class="accordion text-justify" id="accordion" role="tablist" aria-multiselectable="true">
 
-        <!-- <div class="card">
+        <div class="card">
             <div class="card-header" role="tab" id="heading1">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1"
                    aria-expanded="false" aria-controls="collapse1">
@@ -44,8 +44,7 @@ include 'navbar.html';
                     <strong>A.</strong>
                     You have to bring original documents and at least 2 copies of Jee (mains & advance) score cards,
                     proof of address, identity proof, passport size photographs, caste certificate(if needed),
-                    domicile certificates and other document shown at official website. Date of registration will
-                    be released soon. The procedure for registration will be explained in detail by the members of
+                    domicile certificates and other document shown at official website. Date of registration is 31/07/23. The procedure for registration will be explained in detail by the members of
                     Student Wellbeing Committee after reaching the college.
                 </div>
             </div>
@@ -90,7 +89,7 @@ include 'navbar.html';
                     <ol>
                         <li>Registration verification form</li>
                         <li>Student bio data form</li>
-                        <li>
+                        <!-- <li>
                             Medical examination form along with forms M1 to M7
                             <ol type="i">
                                 <li>Blood test report</li>
@@ -102,7 +101,8 @@ include 'navbar.html';
                                 <li>Examination of eyes</li>
                                 <li>Adult vaccination record</li>
                             </ol>
-                        </li>
+                        </li> -->
+                        <li>Medical Form (in IITJ format) preferred</li>
                         <li>Anti-ragging undertaking</li>
                         <li>Student undertaking for alcohol</li>
                         <li>Harassment</li>
@@ -136,7 +136,7 @@ include 'navbar.html';
                     required documents) there are no further formalities generally.
                 </div>
             </div>
-        </div> -->
+        </div>
 
 
 
