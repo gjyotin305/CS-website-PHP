@@ -59,8 +59,8 @@ include 'navbar.html';
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
                     <li>
-                        <!-- <h2 class="h2-responsive">Student Wellbeing Committee</h2>
-                        <h4 class="h4-responsive">IIT Jodhpur</h4> -->
+                        <h2 class="h2-responsive"> IIT Jodhpur is a ragging free campus</h2>
+                        <h4 class="h4-responsive"> The Institute strictly adheres to the government anti ragging policy</h4>
                     </li>
                 </ul>
             </div>
