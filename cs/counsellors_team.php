@@ -71,14 +71,14 @@ include 'navbar.html';
             <h5><strong>Contact : </strong>+91 8770205067</h5>
             <a class="icons-sm email-ic" href="mailto:Nabeelah@osstaff.iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
         </div>
-        <div class="col-lg-6 col-md-12 mb-r animate-profile">
+        <!-- <div class="col-lg-6 col-md-12 mb-r animate-profile">
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Kuldeep_Singh.jpg" class="lazyload rounded-circle">
             </div>
             <h4>Kuldeep Singh</h4>
             <h5><strong>Contact : </strong>+91 966919666</h5>
             <a class="icons-sm email-ic" href="mailto:kuldeeeep7@gmail.com"><i class="fa fa-envelope-o"> </i></a>
-        </div>
+        </div> -->
     </div>
 </section>
 <!--/Section: Team v.1-->
