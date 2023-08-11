@@ -39,7 +39,7 @@ include 'navbar.html';
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="7"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="8"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="9"></li>
-        <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="10"></li>
+        <!--<li data-target="#carousel-example-1" data-interval="5000" data-slide-to="10"></li>-->
     </ol>
     <!--/.Indicators-->
  
@@ -200,7 +200,7 @@ include 'navbar.html';
         </div>
         <!--/.Slide -->
         <!--Slide -->
-        <div class="carousel-item view">
+        <!--<div class="carousel-item view">
         <?php
             // include 'callout.html';
             ?>
@@ -212,7 +212,7 @@ include 'navbar.html';
                 </ul>
             </div>
         </div>
-    </div>
+    </div>-->
     <!--/.Slides-->
 
     <!--Controls-->
