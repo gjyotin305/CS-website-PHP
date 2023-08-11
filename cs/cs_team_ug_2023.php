@@ -110,14 +110,14 @@ include 'navbar.html';
         ?>
     </div>
 
-    <!-- <div class="divider-new">
+    <div class="divider-new">
         <h2 class="h2-responsive">Student Guides</h2>
     </div>
     <div class="row text-center" id = "student-guide">
     <?php
         $content = json_decode(file_get_contents('./swc_ug_team_2023.json'), true);
-        $start = 10;
-        $end = 55;
+        $start = 12;
+        $end = 60;
         $remaining = $end - $start;
         $j = $remaining %3;
 
@@ -159,7 +159,7 @@ include 'navbar.html';
             echo '</div>';
         }
         ?>
-    </div> -->
+    </div> 
 
 </section>
 <!--/Section: Team v.1-->

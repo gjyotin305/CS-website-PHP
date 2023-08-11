@@ -2,7 +2,7 @@ import csv
 import json 
 import requests
 import os
-import gdown
+# import gdown
 
 def download_photo_from_drive(drive_link, output_dir, file_name):
     try:
@@ -64,8 +64,8 @@ def make_json(csvFilePath, jsonFilePath):
   
 # Decide the two file paths according to your  
 # computer system 
-csvFilePath = r'PG_TEAM_2023.csv'
-jsonFilePath = r'swc_pg_team_2023.json'
+csvFilePath = r'UG_team_2023.csv'
+jsonFilePath = r'swc_ug_team_2023.json'
   
 # Call the make_json function 
 make_json(csvFilePath, jsonFilePath)
