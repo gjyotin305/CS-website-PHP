@@ -69,12 +69,63 @@ include 'head.html';
     ?>
     <!--Container to center the content-->
 
-    <div class="navbar-margin"></div>
+    <div class="container text-center pt-1 mb-1">
+
+<!-- <div class="row flex-center nav-justified">
+    <ul id="gallery-nav" class="nav nav-tabs col tabs-4 blue darken-2" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">UG Acitvities</a>
+        </li>
+    </ul>
+</div> -->
+
+
+                <div class="row flex-center nav-justified mt-5">
+                    <ul id="gallery-nav" class="nav nav-tabs col tabs-4 blue darken-2" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">Formal Orientation</a>
+                        </li>
+                    </ul>
+                </div>
+
+
+
+
+
+
+                <!-- data of orientation -->
+
+
+
+
+
+                <div class="row flex-center nav-justified">
+                    <ul id="gallery-nav" class="nav nav-tabs col tabs-4 blue darken-2" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">Informal Orientation</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+
+
+
+                <!-- data of orientation -->
+
+
+
+
+
+
+
+    <!-- <div class="navbar-margin"></div>
     <div class="divider-new" style="margin-bottom: 10px;">
         <h2 class="h2-responsive" style="text-align: center;">Virtual Talent Show <p style="font-size: 18px;">Freshers' 2021</p>
         </h2>
-    </div>
-    <div id="vid-container" class="flex-center video-container">
+    </div> -->
+
+    <!-- <div id="vid-container" class="flex-center video-container">
         <?php
         $content = json_decode(file_get_contents('./talent_show.json'), true);
         $total = count($content);
@@ -119,7 +170,7 @@ include 'head.html';
 
         echo $page_navigation;
         ?>
-    </div>
+    </div> -->
 
     <!--Footer-->
     <?php
