@@ -3,63 +3,7 @@ include 'head.html';
 ?>
 
 <head>
-    <title>Activities - Mr./Ms. Freshers</title>
-    <style>
-        .navbar-margin {
-            margin-top: 6rem;
-        }
-
-        .video-container {
-            height: auto;
-            padding: 0.5rem;
-            flex-wrap: wrap;
-        }
-
-        .video-entry {
-            justify-content: center;
-            align-items: center;
-            display: flex;
-            flex-direction: column;
-            margin-bottom: 36px;
-        }
-
-        .video-entry>.iframe-holder {
-            overflow: hidden;
-            position: relative;
-            width: 100%;
-            height: 280px;
-            border-radius: 16px;
-        }
-
-        .video-entry>.iframe-holder>iframe {
-            border: 0;
-            height: 100%;
-            left: 0;
-            position: absolute;
-            top: 0;
-            width: 100%;
-        }
-
-        .video-entry>.name {
-            font-family: 'Roboto';
-            margin-top: 20px;
-            font-weight: bold;
-            text-transform: capitalize;
-        }
-
-        .video-entry>.branch {
-            font-family: 'Roboto';
-            font-size: 12px;
-        }
-
-        .video-entry>iframe {
-            border-radius: 16px;
-        }
-
-        .page-bar {
-            margin: 6px;
-        }
-    </style>
+    <title>Freshanza</title>
 </head>
 
 <body>
@@ -67,62 +11,122 @@ include 'head.html';
     <?php
     include 'navbar.html';
     ?>
-    <!--Container to center the content-->
+    <script>
+        document.getElementById('nav-8').classList.add('active');
+        document.getElementById('nav-8-1').classList.add('active');
+        document.getElementById('nav-8').children[0].innerHTML += '<span class="sr-only">(current)</span>';
+    </script>
+    <div class="top-fixer-2"></div>
+    <!--Section: Team v.1-->
+    <section class="section team-section container">
+        <div id="section-2">
+            <div class="container text-center pt-1 mb-1">
 
-    <div class="navbar-margin"></div>
-    <div class="divider-new" style="margin-bottom: 10px;">
-        <h2 class="h2-responsive" style="text-align: center;">Mr./Ms. Freshers <p style="font-size: 18px;">Freshers' 2022</p>
-        </h2>
-    </div>
-    <div id="vid-container" class="flex-center video-container">
-        <?php
-        $content = json_decode(file_get_contents('./mr&mrsfreshers.json'), true);
-        $total = count($content);
+            <div class="navbar-margin"></div>
+            <div class="divider-new" style="margin-bottom: 10px;">
+                <h2 class="h2-responsive" style="text-align: center;">Freshanza<p style="font-size: 18px;"></p>
+                </h2>
+            </div>
 
-        parse_str($_SERVER['QUERY_STRING'], $query);
-        $page = $query["page"];
-        if ($page == NULL) $page = 1;
-        $page = (int)$page;
-        if ($page == 1) $prev_disabled = 'disabled';
-        if ($page == 18) $next_disabled = 'disabled';
+            <div class="row flex-center mt-4">
+                            <h3>
+                            Freshanza 2022
+                            </h3>
+                            <div style="height:100px"></div>
 
-        $page_navigation = '<nav aria-label="navigation" class="col-lg-12 page-bar">
-                <ul class="pagination justify-content-center">
-                    <li class="page-item ' . $prev_disabled . '"><a class="page-link" href="?page=' . ($page - 1) . '">
-                        <span aria-hidden="true">&laquo;</span>
-                        <span class="sr-only">Previous</span>
-                    </a></li>
-                    <li class="page-item"><a class="page-link">' . $page . '</a></li>
-                    <li class="page-item ' . $next_disabled . '"><a class="page-link" href="?page=' . ($page + 1) . '">
-                        <span aria-hidden="true">&raquo;</span>
-                        <span class="sr-only">Next</span>
-                    </a></li>
-                </ul>
-            </nav>';
+                            <div style="text-align: left;">
+                                <p>The Fresher's event organized by the UG team provided a great opportunity for the new 
+                                    batches to showcase their talent and get to know each other in a better way. The event 
+                                    was marked by various competitions, including dance, music, and drama, where the students
+                                    actively participated and displayed their creative abilities. The students had an enjoyable
+                                    and enriching experience, as they got to interact with their peers and learn more about the
+                                    college culture. The event was a grand success, and it helped in creating a positive and 
+                                    inclusive environment for the new students.
+        </div>
 
-        echo $page_navigation;
+                            <div style="height:50px"></div>
+                        </div>
+                        <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                            <div class="col-md-12">
+                                <div class="mdb-lightbox">
+                                    <div class="row flex-center">
+                                    <?php
+                                        $dir = './images2/freshenza_2023/';
+                                        $dir_open = opendir($dir);
 
-        $page--;
-        $entry_per_page = 6;
-        $start = $page * $entry_per_page;
-        if ($start < 0) $start = $total;
-        for ($i = $start; $i < min($total, $start + $entry_per_page); $i++) {
-            $entry = $content[$i];
-            echo '<div class="col-lg-4 col-md-12 video-entry">';
-            echo '<div class="iframe-holder">';
-            echo '<iframe src="' . $entry["link"] . '" width="440" height="280" frameborder="0" loading="lazy" allowfullscreen> </iframe>';
-            echo '</div>';
-            echo '<p class="name">' . $entry["name"] . '</p>';
-            echo '<p class="branch">' . $entry["branch"] . '</p>';
-            echo '</div>';
-        }
+                                        while (false !== ($filename = readdir($dir_open))) {
+                                            if ($filename != "." && $filename != "..") {
+                                                $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                                <a href='$dir$filename' data-size=\"1600x1067\">
+                                    <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                                </a>
+                            </figure>
+                            ";
+                                                echo $link;
+                                            }
+                                        }
 
-        echo $page_navigation;
-        ?>
-    </div>
+                                        closedir($dir_open);
+                                        ?>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                     </div>
 
+                     <div class="row flex-center mt-4">
+                    <h3>
+                        Freshanza 2021
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>Fresher’s organized by the UG team for the new batches. Students did organize various
+                            competitions where the talent of new batches can be showcased. A virtual evening filled with
+                            poetry, dance, music, laughter and lots of fun.</p>
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/freshenza22/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                </div>
+        </section>
+    <!-- SCRIPTS -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/tether.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/compiled.min.js"></script>
+
+    <script type="text/javascript" src="js/lazysizes.min.js"></script>
     <!--Footer-->
     <?php
     include 'footer.html';
     ?>
-</body>
