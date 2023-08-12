@@ -25,19 +25,19 @@ include 'head.html';
                 <div class="row flex-center nav-justified">
                     <ul id="gallery-nav" class="nav nav-tabs col tabs-4 blue darken-2" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">UG Acitvities</a>
+                            <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">UG Orientation</a>
                         </li>
                     </ul>
                 </div>
 
-                <!--<div class="row flex-center mt-4">
-                    <h3>
-                    Letter to Your Future Self
-                    </h3>
+                <div class="row flex-center mt-4">
+                    <h2>
+                    Informal Orientation
+                    </h2>
                     <div style="height:100px"></div>
 
                     <div style="text-align: left;">
-                        <p>The letter-to-future-self event organized by the SWC proved to be an enriching and thought-provoking experience for the IIT Junta. The act of writing a letter to one's future is self-served as a powerful tool for self-reflection and goal setting. Students actively engaged in the process, utilizing the postcards distributed and dropboxes set up at three different locations. The event provided a unique opportunity for students to connect with their future selves, gaining insights into their aspirations and values. Participants reported feeling inspired and motivated to work towards their goals, having gained a newfound clarity on their personal and professional trajectories. Overall, the letter-to-future-self event was a resounding success, leaving a lasting impact on the IIT community.
+                        <p>The informal freshers' orientation at IIT Jodhpur is a vibrant and exhilarating event that welcomes new students into the institute's dynamic fold. Brimming with energy and camaraderie, the orientation is a blend of fun and information, fostering connections and easing the transition to college life. Amid the majestic backdrop of Jodhpur's landscape, the event is marked by ice-breaking games, interactive sessions, and cultural showcases. Seniors and faculty share insights, advice, and campus know-how, nurturing a sense of belonging among the newcomers. With an informal approach, the orientation encourages open discussions, enabling students to clarify doubts and discover the array of opportunities awaiting them. The event also ignites a spirit of creativity, as students engage in talent exhibitions, performances, and collaborative projects. This memorable experience not only equips freshers with practical knowledge but also kickstarts their journey at IIT Jodhpur with excitement and zeal.</p>
 
 </div>
 
@@ -68,16 +68,16 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
                 <div class="row flex-center mt-4">
                     <h3>
-                    Meditation with Music
+                    1.Treasure Hunt
                     </h3>
                     <div style="height:100px"></div>
 
                     <div style="text-align: left;">
-                        <p>The students who attended the meditation and sound therapy event organized by SWC had a deeply relaxing and rejuvenating experience. The SAVAMSM team's various healing techniques and meditation types helped the students to release their stress and anxiety, leaving them feeling refreshed and energized. Overall, the event was well-received by the students and served as a helpful tool for their mental well-being.
+                        <p>During the exhilarating treasure hunt, IIT Jodhpur's freshers forged new connections. Collaborating in teams, they navigated challenges, unraveling clues and sharing laughter. These interactions fostered bonds, uniting diverse minds in a common quest. Friendships formed in the thrill of the hunt promise lasting camaraderie throughout their college journey.</p>
 
 </div>
 
@@ -113,12 +113,12 @@ include 'head.html';
 
                 <div class="row flex-center mt-4">
                     <h3>
-                    World Mental Health Day
+                    2.Open Mic
                     </h3>
                     <div style="height:100px"></div>
 
                     <div style="text-align: left;">
-                        <p>The World Mental Health Day event organized by the SWC provided an excellent opportunity for IITJ students to break the stigma related to mental health. Students were asked to pass on the Green Ribbon to other members as a symbol of support and awareness. This initiative encouraged students to start a dialogue regarding mental health and illness, and share their warm and kind words. It was heartening to see the students filling up blank sheets with messages of hope, support, and encouragement. The event was successful in creating a safe and supportive environment for students to express their thoughts and feelings regarding mental health, and it was an important step toward promoting mental well-being on campus.
+                        <p>The open mic event at IIT Jodhpur's freshers' orientation was a tapestry of talents. From soul-stirring melodies to thought-provoking poetry and stand-up comedy that ignited laughter, the stage radiated creativity. Freshers fearlessly showcased their diverse skills, leaving the audience spellbound. This vibrant display not only celebrated individuality but also cemented a sense of unity among the newcomers, setting the stage for an enriching college experience.</p>
 
 </div>
 
@@ -153,12 +153,12 @@ include 'head.html';
 
                 <div class="row flex-center mt-4">
                     <h3>
-                    Burn your own Ravana
+                    3. Movie Trivia
                     </h3>
                     <div style="height:100px"></div>
 
                     <div style="text-align: left;">
-                        <p>The event organized by the SWC proved to be a cathartic experience for the students, as it gave them a platform to share their stressors and negative experiences. The symbolic activity of burning the negative energies inside of us helped them collectively incinerate all the unpleasant experiences, leaving them feeling lighter and more positive. The venue, Ground Front of LHC, provided a conducive environment for the students to come together and support each other through their struggles. Overall, the event was a success in helping the students deal with their emotional baggage and promoting a sense of community and healing.
+                        <p>Movie trivia night stirred an electric atmosphere among IIT Jodhpur's freshers. As silver screen aficionados, they engaged in spirited debates, recalling iconic dialogues, characters, and plots. Laughter resonated amidst friendly rivalries, as teams tested their cinematic knowledge. The event not only celebrated their shared love for movies but also sparked connections as they bonded over favorite films. The night's excitement solidified friendships and set the tone for an unforgettable college journey.</p>
 
 </div>
 
@@ -191,20 +191,14 @@ include 'head.html';
                     </div>
                 </div>
 
-                <!--<div class="row flex-center mt-4">
+                <div class="row flex-center mt-4">
                     <h3>
-                    Farewell of UG team
+                    4.Pictionary 
                     </h3>
                     <div style="height:100px"></div>
 
                     <div style="text-align: left;">
-                        <p>Farewell was given to the students who were a part of 
-                            the Student Wellbeing Team. The team members were recognized for their contributions and 
-                            hard work and were given certificates as a token of appreciation. During the farewell, they were 
-                            thanked for their dedication and commitment to promoting a culture of well-being within the student
-                             community. The students' efforts in organizing various events and initiatives that aimed to foster a 
-                             supportive environment for their peers were applauded. The farewell was a heartfelt way of expressing
-                              gratitude and acknowledging the significant impact that the team members had on the student body.
+                        <p>Pictionary night at IIT Jodhpur was a riot of joy for freshers. Through quick sketches and hilarious guesses, they unleashed their imagination and camaraderie. Laughter echoed as doodles turned into clues and guesses transformed into wins. The game's spontaneity and collaborative spirit created an unforgettable bonding experience. In the strokes of a pencil, friendships deepened, and barriers melted away, painting an exciting start to their journey through college life.</p>
 
 </div>
 
@@ -235,21 +229,16 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
-               <!-- <div class="row flex-center mt-4">
+                <div class="row flex-center mt-4">
                     <h3>
-                    Gratitude day
+                    5.Comicstaan
                     </h3>
                     <div style="height:100px"></div>
 
                     <div style="text-align: left;">
-                        <p>The event organized by SWC proved to be an excellent opportunity 
-                            for students to express gratitude towards their peers, mentors, and seniors. 
-                            The postcard activity fostered a sense of appreciation and belonging amongst 
-                            the attendees, and the evening was filled with fun and laughter. The poetry and
-                             open mic session allowed students to showcase their talents and creativity, and
-                              it was heartwarming to see everyone support and encourage each other. 
+                        <p>The "Sawaal Pe Sawaal/Comicstaan" game, a hit among IIT Jodhpur's freshers, is a unique twist on communication. Players can only ask and answer with questions, fostering quick thinking and creativity. Laughter abounds as participants craft puzzling inquiries and navigate witty retorts. This playful challenge not only hones communication skills but also creates an engaging and lighthearted atmosphere, making it a favorite among freshers seeking to break the ice and form connections in a fun and interactive way.</p> 
 
 </div>
 
@@ -280,9 +269,9 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
-                <!--<div class="row flex-center mt-4">
+                <div class="row flex-center mt-4">
                     <h3>
                     Freshanza
                     </h3>
@@ -325,9 +314,9 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
-                <!--<div class="row flex-center mt-4">
+                <div class="row flex-center mt-4">
                     <h3>
                     Open-Air Theatre
                     </h3>
@@ -370,7 +359,7 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
 
                 <div class="row flex-center mt-4">
@@ -498,7 +487,7 @@ include 'head.html';
 
 <!-- new website above this comment -->
 
-               <!-- <div class="row flex-center mt-4">
+                <div class="row flex-center mt-4">
                     <h3>
                         Freshanza
                     </h3>
@@ -581,7 +570,7 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
                 <div class="row flex-center mt-4">
                     <h3>
@@ -817,7 +806,7 @@ include 'head.html';
                     </div>
                 </div>
 
-                <!--<div class="row flex-center mt-4">
+                <div class="row flex-center mt-4">
                     <h3>
                         Underneath the Stars
                     </h3>
@@ -862,7 +851,7 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
                 <div class="row flex-center mt-4">
                     <h3>
@@ -911,7 +900,7 @@ include 'head.html';
                     </div>
                 </div>
 
-                <!--<div class="row flex-center mt-4">
+                <div class="row flex-center mt-4">
                     <h3>
                         Gratitude Day
                     </h3>
@@ -928,9 +917,9 @@ include 'head.html';
                     </div>
 
                     <div style="height:50px"></div>
-                </div>-->
+                </div>
 
-                <!--<div class="row flex-center mt-4">
+                <div class="row flex-center mt-4">
                     <h3>
                         Dusshera Celebration 'Good over Evil'
                     </h3>
@@ -972,7 +961,7 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
                 <div class="row flex-center mt-4">
                     <h3>
                         PG Orientation
