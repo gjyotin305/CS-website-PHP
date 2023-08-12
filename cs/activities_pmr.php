@@ -30,7 +30,7 @@ include 'head.html';
                     </ul>
                 </div>
 
-                <div class="row flex-center mt-4">
+                <!--<div class="row flex-center mt-4">
                     <h3>
                     Letter to Your Future Self
                     </h3>
@@ -68,7 +68,7 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
                 <div class="row flex-center mt-4">
                     <h3>
@@ -191,7 +191,7 @@ include 'head.html';
                     </div>
                 </div>
 
-                <div class="row flex-center mt-4">
+                <!--<div class="row flex-center mt-4">
                     <h3>
                     Farewell of UG team
                     </h3>
@@ -235,9 +235,9 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
-                <div class="row flex-center mt-4">
+               <!-- <div class="row flex-center mt-4">
                     <h3>
                     Gratitude day
                     </h3>
@@ -280,9 +280,9 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
-                <div class="row flex-center mt-4">
+                <!--<div class="row flex-center mt-4">
                     <h3>
                     Freshanza
                     </h3>
@@ -325,9 +325,9 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
-                <div class="row flex-center mt-4">
+                <!--<div class="row flex-center mt-4">
                     <h3>
                     Open-Air Theatre
                     </h3>
@@ -370,7 +370,7 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
 
                 <div class="row flex-center mt-4">
@@ -498,7 +498,7 @@ include 'head.html';
 
 <!-- new website above this comment -->
 
-                <div class="row flex-center mt-4">
+               <!-- <div class="row flex-center mt-4">
                     <h3>
                         Freshanza
                     </h3>
@@ -581,7 +581,7 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
                 <div class="row flex-center mt-4">
                     <h3>
@@ -817,7 +817,7 @@ include 'head.html';
                     </div>
                 </div>
 
-                <div class="row flex-center mt-4">
+                <!--<div class="row flex-center mt-4">
                     <h3>
                         Underneath the Stars
                     </h3>
@@ -862,7 +862,7 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
                 <div class="row flex-center mt-4">
                     <h3>
@@ -911,7 +911,7 @@ include 'head.html';
                     </div>
                 </div>
 
-                <div class="row flex-center mt-4">
+                <!--<div class="row flex-center mt-4">
                     <h3>
                         Gratitude Day
                     </h3>
@@ -928,9 +928,9 @@ include 'head.html';
                     </div>
 
                     <div style="height:50px"></div>
-                </div>
+                </div>-->
 
-                <div class="row flex-center mt-4">
+                <!--<div class="row flex-center mt-4">
                     <h3>
                         Dusshera Celebration 'Good over Evil'
                     </h3>
@@ -972,7 +972,7 @@ include 'head.html';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="row flex-center mt-4">
                     <h3>
                         PG Orientation
