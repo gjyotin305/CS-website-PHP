@@ -250,6 +250,46 @@ include 'head.html';
                     </div>
                 </div>
 
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Cycling Event
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The Student Welfare Committee at IIT Jodhpur recently organized a thrilling cycle event for the first-year students that left everyone pedaling with excitement. This event was a wonderful opportunity for the newcomers to not only explore the picturesque campus but also to foster a sense of community and camaraderie among themselves. The event featured a scenic route through the campus, allowing the participants to appreciate the natural beauty of the surroundings while also testing their cycling skills. It was heartwarming to witness the enthusiasm and energy of the first-year students as they embarked on this adventure, making new friends and creating lasting memories. The cycle event organized by the Student Welfare Committee at IIT Jodhpur was not just about physical activity but also about building connections and a sense of belonging for the incoming batch of students.
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                            <?php
+                                $dir = './images2/cycling/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div style="height:100px"></div>
 
                 <div class="row flex-center nav-justified">
