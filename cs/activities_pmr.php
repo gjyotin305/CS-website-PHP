@@ -721,6 +721,46 @@ include 'head.html';
                     </div>
                 </div>
 
+                <div class="row flex-center mt-4">
+                    <h3>
+                    World Suicide Prevention Day
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>On World Suicide Prevention Day, the dedicated counselors at IIT Jodhpur took a proactive stance in addressing the mental health challenges faced by undergraduate (UG) and postgraduate (PG) students on campus. They organized a unique and impactful activity aimed at raising awareness and promoting empathy among the student community. Through powerful enactments and role plays, the counselors vividly portrayed various mental health issues commonly encountered by students, shedding light on the struggles and emotions that often remain hidden. This activity allowed students to step into the shoes of those grappling with mental health challenges, fostering understanding and compassion. It not only highlighted the importance of seeking help when needed but also emphasized the significance of a supportive and stigma-free environment. The event was a significant step in breaking down the barriers surrounding mental health conversations and promoting a culture of well-being within the IIT Jodhpur community.</p>
+
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/suicide_prevention_day/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
 
 
                 <div style="height:100px"></div>
