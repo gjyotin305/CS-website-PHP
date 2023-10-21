@@ -46,13 +46,22 @@ include 'navbar.html';
         </div>
         <div class="col-lg-6 col-md-12 mb-r animate-profile invisible">
         <div class="avatar">
+                <img src="images/sqloader.gif" data-src="images/avatar/WIN_20210612_19_13_51_Pro_IITJ.jpg" class="lazyload rounded-circle">
+            </div>
+            <h4>Dr. Saptarshi Pyne</h4>
+            <h5>Faculty Advisor</h5>
+            <h5><strong>Contact : </strong>0291-2801305</h5>
+            <a class="icons-sm email-ic" href="mailto:samanwita@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
+        </div>
+        <!-- <div class="col-lg-6 col-md-12 mb-r animate-profile invisible">
+        <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Samanwita.jpg" class="lazyload rounded-circle">
             </div>
             <h4>Dr. Samanwita Pal</h4>
             <h5>Faculty Advisor</h5>
             <h5><strong>Contact : </strong>0291-2801305</h5>
             <a class="icons-sm email-ic" href="mailto:samanwita@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
-        </div>
+        </div> -->
         <div class="col-lg-6 col-md-12 mb-r animate-profile invisible">
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Prasenjeet_Tribhuvan.jpg" class="lazyload rounded-circle">
@@ -62,13 +71,22 @@ include 'navbar.html';
             <h5><strong>Contact : </strong>0291-2801408</h5>
             <a class="icons-sm email-ic" href="mailto:prasenjeet@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
         </div>
+        <!-- <div class="col-lg-6 col-md-12 mb-r animate-profile invisible">
+            <div class="avatar">
+                <img src="images/sqloader.gif" data-src="images/avatar/Prasenjeet_Tribhuvan.jpg" class="lazyload rounded-circle">
+            </div>
+            <h4>Dr. Prasenjeet Tribhuvan</h4>
+            <h5>Faculty Advisor</h5>
+            <h5><strong>Contact : </strong>0291-2801408</h5>
+            <a class="icons-sm email-ic" href="mailto:prasenjeet@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
+        </div> -->
         <div class="col-lg-6 col-md-12 mb-r animate-profile invisible">
             <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/Pankaj_Yadav.jpg" class="lazyload rounded-circle">
+                <img src="images/sqloader.gif" data-src="images/avatar/Sumit Kamal_Photo.JPG" class="lazyload rounded-circle">
             </div>
-            <h4>Dr. Pankaj Yadav</h4>
+            <h4>Dr. Sumit Kamal</h4>
             <h5>Faculty Advisor</h5>
-            <h5><strong>Contact : </strong>0291-2801211</h5>
+            <h5><strong>Contact : </strong>+91-9867137432</h5>
             <a class="icons-sm email-ic" href="mailto:pyadav@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
         </div>
         <div class="col-lg-6 col-md-12 mb-r animate-profile invisible">
