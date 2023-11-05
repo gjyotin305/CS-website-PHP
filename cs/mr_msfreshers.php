@@ -30,6 +30,45 @@ include 'head.html';
 
             <div class="row flex-center mt-4">
                             <h3>
+                            Freshanza 2023
+                            </h3>
+                            <div style="height:100px"></div>
+
+                            <div style="text-align: left;">
+                                <p>Freshenza 2023 at IIT Jodhpur promises to be a vibrant and exciting event, where new students are welcomed with open arms to the campus. This annual extravaganza is a fantastic opportunity for freshers to explore their interests, make new friends, and immerse themselves in a diverse range of activities. From engaging workshops and cultural performances to thrilling sports competitions and informative seminars, Freshenza 2023 is sure to set the stage for an unforgettable journey through their college life. It's a time for students to create lasting memories and embrace the vibrant spirit of IIT Jodhpur.
+        </div>
+
+                            <div style="height:50px"></div>
+                        </div>
+                        <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                            <div class="col-md-12">
+                                <div class="mdb-lightbox">
+                                    <div class="row flex-center">
+                                    <?php
+                                        $dir = './images2/freshenza2023/';
+                                        $dir_open = opendir($dir);
+
+                                        while (false !== ($filename = readdir($dir_open))) {
+                                            if ($filename != "." && $filename != "..") {
+                                                $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                                <a href='$dir$filename' data-size=\"1600x1067\">
+                                    <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                                </a>
+                            </figure>
+                            ";
+                                                echo $link;
+                                            }
+                                        }
+
+                                        closedir($dir_open);
+                                        ?>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                     </div>
+            <div class="row flex-center mt-4">
+                            <h3>
                             Freshanza 2022
                             </h3>
                             <div style="height:100px"></div>
