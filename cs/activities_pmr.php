@@ -72,6 +72,333 @@ include 'head.html';
 
                 <div class="row flex-center mt-4">
                     <h3>
+                    Wellbeing Game night
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>The Wellbeing Game Night, skillfully organized by our moderators , proved to be a refreshing break for students. Breaking the monotony with an array of engaging activities, the event seamlessly introduced mental wellness in a light-hearted and enjoyable manner. Through introspective challenges like the Wheel of Life and dynamic games such as Toss the Ring and Grab Your Gift, attendees experienced a unique blend of fun and self-reflection. This innovative approach not only entertained but also contributed to breaking down barriers surrounding mental health in a community-oriented setting. The night served as a meaningful reminder that fostering mental wellness can be as enjoyable as it is essential.</p>
+
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/game_night/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Farewell of Counsellors
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>On World Suicide Prevention Day, the dedicated counselors at IIT Jodhpur took a proactive stance in addressing the mental health challenges faced by undergraduate (UG) and postgraduate (PG) students on campus. They organized a unique and impactful activity aimed at raising awareness and promoting empathy among the student community. Through powerful enactments and role plays, the counselors vividly portrayed various mental health issues commonly encountered by students, shedding light on the struggles and emotions that often remain hidden. This activity allowed students to step into the shoes of those grappling with mental health challenges, fostering understanding and compassion. It not only highlighted the importance of seeking help when needed but also emphasized the significance of a supportive and stigma-free environment. The event was a significant step in breaking down the barriers surrounding mental health conversations and promoting a culture of well-being within the IIT Jodhpur community.</p>
+
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/c_farewell_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row flex-center mt-4">
+                    <h3>
+                    World Suicide Prevention Day
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>On World Suicide Prevention Day, the dedicated counselors at IIT Jodhpur took a proactive stance in addressing the mental health challenges faced by undergraduate (UG) and postgraduate (PG) students on campus. They organized a unique and impactful activity aimed at raising awareness and promoting empathy among the student community. Through powerful enactments and role plays, the counselors vividly portrayed various mental health issues commonly encountered by students, shedding light on the struggles and emotions that often remain hidden. This activity allowed students to step into the shoes of those grappling with mental health challenges, fostering understanding and compassion. It not only highlighted the importance of seeking help when needed but also emphasized the significance of a supportive and stigma-free environment. The event was a significant step in breaking down the barriers surrounding mental health conversations and promoting a culture of well-being within the IIT Jodhpur community.</p>
+
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/suicide_prevention_day/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Harmony on Campus: Striking the College Life Balance, 11 August 2023
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>Extending the informal orientation initiative, a seminar named " Harmony on Campus: Striking the College Life Balance" was organised. This seminar aimed to address the various difficulties encountered when transitioning through different phases of college life. Mr Akash Vishwakarma (Clinical Psychologist) shared six pivotal concepts for attendees to retain and apply. The Undergraduate (UG) team ensured the event's seamless coordination. Enthusiastic UG students actively engaged in the seminar and displayed their involvement throughout the session. The seminar spanned 60 minutes and culminated with an interactive Question and Answer segment, allowing participants to seek clarification and additional insights. Some stayed back to appreciate the points raised during the session.
+</p>
+
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/harmony_on_campus/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row flex-center mt-4">
+                    <h3>
+                    Why/Which Relationships Matter? Personal and Professional, 10 August 2023
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>Upon entering a residential campus, for some this being the first time away from home, there are certain challenges and questions regarding which relationships to form, healthy and unhealthy connections, and reaching mutual understanding. This Orientation attempted to address some of these common concerns regarding both personal and professional relationships.
+Ms. Anannya opened the session by asking about significant relationships in the participants’ lives, and inviting them to share their experiences. Some case vignettes served as prompts for the audience’s responses. Further to this, Dr. Anjali led the students into a letter-writing exercise to reflect upon a significant relationship in the life of each. After debriefing about this exercise, the participants were encouraged to reflect upon some other important but non-human connections as well. 
+
+</p>
+
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/relationshipmatters/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row flex-center mt-4">
+                    <h3>
+ Communication Etiquette, 07 August 2023
+
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>With UG students transitioning from school to a residential campus, many are experiencing independent living away from home for the first time and facing challenges around the same. Facilitated by Ms.Anannya Sharma and Ms.Nabeelah Siddiqui, an engaging session on “Communication Etiquettes was conducted as a part of the UG orientation program.
+The session began by inviting students to share their initial understanding of communication etiquettes. Real-life scenarios, presented through case vignettes, prompted students to think critically about appropriate behavior and communication in various settings. The session emphasized the differentiation between personal and campus life communication, with a significant focus on email etiquette.The aim was to equip them with ways to communicate effectively with peers, faculty, and staff while fostering professionalism and decorum within the campus community.
+
+</p>
+
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/communicationettiq/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row flex-center mt-4">
+                    <h3>
+ Engaging With Elegance, 08 August 2023
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>An interactive session titled "Engaging with Elegance" was conducted on 8th August,2023 as a part of the PG orientation program for students at IIT jodhpur. The session was aimed at fostering a deeper understanding of communication dynamics, within the residential campus environment and beyond. 
+Facilitated by Ms. Nabeelah Siddiqui and Ms. Anjana Sunil, the session seamlessly integrated interactive role plays and engaging activities to talk about communication etiquettes in the campus. Discussions were centered on vital aspects such as body language, feedback exchange, assertiveness, e-mail etiquettes, respecting the staff (teaching & non-teaching), and stimulating positive interactions within the campus community. Students were curious and took initiative as they shared their challenges and discussed effective strategies for the same. By creating an environment of active participation and learning through fun, the session not only equipped students with valuable skills but also promoted a supportive atmosphere, enabling them to express themselves confidently and navigate various social scenarios with finesse.
+</p>
+
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/engagewithelegance/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row flex-center mt-4">
+                    <h3>
+ Campus Life Challenges & Healthy Boundaries, 29 July 2023
+                    </h3>
+                    <div style="height:100px"></div>
+
+                    <div style="text-align: left;">
+                        <p>Post the official orientation of the newly joined PG and PhD students on 26th July 2023, this was the first formal event organized by the SWC.  The session was conducted by Ms. Anannya Sharma & Ms. Anjana Sunil with insightful inputs from Dr. Anjali and the entire counselling team. The event was ably supported by the PG Students Team. Through this session, the wellbeing  team was able to hold a safe space for the students to open up about the challenges and concerns that they are facing in the campus, and also guide them with the possible ways to overcome those challenges. 
+The session was quite interactive and lively. Students were able to connect and relate with each other’s experiences. Different case vignettes of the possible campus life challenges were presented to the students in the form of a game which were followed by some fun discussions.
+</p>
+
+                    </div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/campuslife/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row flex-center mt-4">
+                    <h3>
                     Meditation with Music
                     </h3>
                     <div style="height:100px"></div>
@@ -700,46 +1027,6 @@ include 'head.html';
                             <div class="row flex-center">
                                 <?php
                                 $dir = './images2/CommuniFun/';
-                                $dir_open = opendir($dir);
-
-                                while (false !== ($filename = readdir($dir_open))) {
-                                    if ($filename != "." && $filename != "..") {
-                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
-                        <a href='$dir$filename' data-size=\"1600x1067\">
-                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
-                        </a>
-                    </figure>
-                    ";
-                                        echo $link;
-                                    }
-                                }
-
-                                closedir($dir_open);
-                                ?>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row flex-center mt-4">
-                    <h3>
-                    World Suicide Prevention Day
-                    </h3>
-                    <div style="height:100px"></div>
-
-                    <div style="text-align: left;">
-                        <p>On World Suicide Prevention Day, the dedicated counselors at IIT Jodhpur took a proactive stance in addressing the mental health challenges faced by undergraduate (UG) and postgraduate (PG) students on campus. They organized a unique and impactful activity aimed at raising awareness and promoting empathy among the student community. Through powerful enactments and role plays, the counselors vividly portrayed various mental health issues commonly encountered by students, shedding light on the struggles and emotions that often remain hidden. This activity allowed students to step into the shoes of those grappling with mental health challenges, fostering understanding and compassion. It not only highlighted the importance of seeking help when needed but also emphasized the significance of a supportive and stigma-free environment. The event was a significant step in breaking down the barriers surrounding mental health conversations and promoting a culture of well-being within the IIT Jodhpur community.</p>
-
-                    </div>
-
-                    <div style="height:50px"></div>
-                </div>
-                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
-                    <div class="col-md-12">
-                        <div class="mdb-lightbox">
-                            <div class="row flex-center">
-                                <?php
-                                $dir = './images2/suicide_prevention_day/';
                                 $dir_open = opendir($dir);
 
                                 while (false !== ($filename = readdir($dir_open))) {

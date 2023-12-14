@@ -21,14 +21,14 @@ include 'head.html';
     <section class="section team-section container">
         <div id="section-2">
             <div class="container text-center pt-1 mb-1">
-<!-- 
+
                 <div class="row flex-center nav-justified">
                     <ul id="gallery-nav" class="nav nav-tabs col tabs-4 blue darken-2" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">Informal Orientation</a>
+                            <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">UG Orientation</a>
                         </li>
                     </ul>
-                </div> -->
+                </div>
 
                 <div class="row flex-center mt-4">
                     <!-- <h2>
@@ -273,14 +273,58 @@ include 'head.html';
                 </div>
 
                 <div style="height:50px"></div>
-<!-- 
+
                 <div class="row flex-center nav-justified">
                     <ul id="gallery-nav" class="nav nav-tabs col tabs-4 blue darken-2" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">Formal Orientation</a>
+                            <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">PG Orientation</a>
                         </li>
                     </ul>
-                </div> -->
+                </div>
+
+
+                <div class="row flex-center mt-4">
+                    <!-- <h3>
+                    4.Pictionary 
+                    </h3>
+                    <div style="height:100px"></div> -->
+
+                    <div style="text-align: left;">
+                        <p>Freshenza 2023 for PG students at IIT Jodhpur is set to be an exciting and enriching experience. This event is designed to welcome postgraduate students to the academic and social life of the campus. It offers a mix of academic orientations, research seminars, and networking opportunities, allowing PG students to connect with their peers and faculty members. Beyond academics, Freshenza provides a platform for students to participate in cultural and recreational activities, ensuring a well-rounded college experience. It's a time for PG students to not only further their knowledge but also to build lasting connections and create cherished memories in their journey at IIT Jodhpur.</p>
+
+</div>
+
+                    <div style="height:50px"></div>
+                </div>
+                <div class="tab-pane fade in show active" id="pmrinfo" role="tabpanel">
+                    <div class="col-md-12">
+                        <div class="mdb-lightbox">
+                            <div class="row flex-center">
+                                <?php
+                                $dir = './images2/ug_orientation_2023/';
+                                $dir_open = opendir($dir);
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir" . "$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
 
     </section>
 
