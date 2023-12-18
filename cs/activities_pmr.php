@@ -3,7 +3,7 @@ include 'head.html';
 ?>
 
 <head>
-    <title>Gallery</title>
+    <title>Counsellor Activities</title>
 </head>
 
 <body>
@@ -22,13 +22,13 @@ include 'head.html';
         <div id="section-2">
             <div class="container text-center pt-1 mb-1">
 
-                <div class="row flex-center nav-justified">
+                <!-- <div class="row flex-center nav-justified">
                     <ul id="gallery-nav" class="nav nav-tabs col tabs-4 blue darken-2" role="tablist">
                         <li class="nav-item">
                             <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">UG Acitvities</a>
                         </li>
                     </ul>
-                </div>
+                </div> -->
 
                 <!--<div class="row flex-center mt-4">
                     <h3>
@@ -117,7 +117,7 @@ include 'head.html';
                     <div style="height:100px"></div>
 
                     <div style="text-align: left;">
-                        <p>On World Suicide Prevention Day, the dedicated counselors at IIT Jodhpur took a proactive stance in addressing the mental health challenges faced by undergraduate (UG) and postgraduate (PG) students on campus. They organized a unique and impactful activity aimed at raising awareness and promoting empathy among the student community. Through powerful enactments and role plays, the counselors vividly portrayed various mental health issues commonly encountered by students, shedding light on the struggles and emotions that often remain hidden. This activity allowed students to step into the shoes of those grappling with mental health challenges, fostering understanding and compassion. It not only highlighted the importance of seeking help when needed but also emphasized the significance of a supportive and stigma-free environment. The event was a significant step in breaking down the barriers surrounding mental health conversations and promoting a culture of well-being within the IIT Jodhpur community.</p>
+                        <p>The farewell of two esteemed counselors at IIT Jodhpur was an emotional yet celebratory event that echoed with gratitude and reminiscence. Amidst the adorned auditorium, adorned with hues of nostalgia and cheer, colleagues, students, and staff gathered to bid adieu to these mentors who had sculpted countless futures with their wisdom and guidance. The speeches resonated with anecdotes of their profound impact, wisdom, and unwavering support that had touched the lives of many. As the evening unfolded with heartfelt messages, laughter, and a tinge of bittersweet emotions, it was a poignant reminder of the indelible legacy they leave behind, inspiring a new chapter of growth and learning for both the institution and the students.</p>
 
                     </div>
 
@@ -151,7 +151,7 @@ include 'head.html';
                 </div>
                 <div class="row flex-center mt-4">
                     <h3>
-                    World Suicide Prevention Day
+                    Student Team Training
                     </h3>
                     <div style="height:100px"></div>
 

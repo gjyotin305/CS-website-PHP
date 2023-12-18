@@ -29,7 +29,7 @@ include 'navbar.html';
 <div id="carousel-example-1" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false">
     <!--Indicators-->
     <ol class="carousel-indicators">
-        <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="1" class="active"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="1"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="2"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="3"></li>
@@ -38,7 +38,7 @@ include 'navbar.html';
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="6"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="7"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="8"></li>
-        <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="9"></li>
+        <!-- <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="9"></li> -->
         <!--<li data-target="#carousel-example-1" data-interval="5000" data-slide-to="10"></li>-->
     </ol>
     <!--/.Indicators-->
@@ -59,8 +59,8 @@ include 'navbar.html';
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
                     <li>
-                        <h2 class="h2-responsive"> IIT Jodhpur is a ragging free campus</h2>
-                        <h4 class="h4-responsive"> The Institute strictly adheres to the government anti ragging policy</h4>
+                        <h2 class="h2-responsive"> Embark on a Journey to <a href="Aasmaan.pdf"> Aasmaan</a>:</h2>
+                        <h4 class="h4-responsive"> The Limitless Sky with Our Wellbeing Newsletter</h4>
                     </li>
                 </ul>
             </div>
@@ -281,10 +281,14 @@ include 'navbar.html';
                 <div class="text-justify card " role="list" style="height: 22rem;">
                     <h3 class="h3-responsive card-header">Announcements</h4></h3>
                     <ol class="card-block pl-5" style="overflow-y: scroll;">
-                        <li>
+                        <!-- <li>
                         Dear Students,<br>
                         Congratulations on qualifying in JEE (Advanced) 2023 and thank you for choosing IIT Jodhpur. IIT<br>
                         Jodhpur welcomes you heartily.
+                        </li> -->
+                        <li>
+                        We are excited to launch our newsletter<a href="Aasmaan.pdf" target="_blank"> Aasmaan</a>. 
+                            <img src ="images\newicon.gif">
                         </li>
                         <li>
                         For Dates and Intructions for registration<a href="http://academic.iitj.ac.in/?page_id=528#Academic%20Calendar%202022-23%20Semester%201%20for%20UG%20First%20Year" target="_blank"> Click Here</a> 
