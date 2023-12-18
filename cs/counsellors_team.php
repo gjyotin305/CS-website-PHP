@@ -50,14 +50,14 @@ include 'navbar.html';
             <h5><strong>Mail : </strong>anjalibhatia@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>
-        <div class="col-lg-6 col-md-12 mb-r animate-profile">
+        <!-- <div class="col-lg-6 col-md-12 mb-r animate-profile">
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Anannya_Sharma.jpg" class="lazyload rounded-circle">
             </div>
             <h4>Anannya Sharma</h4>
             <h5><strong>Contact : </strong>+91 7023761903</h5>
             <h5><strong>Mail : </strong>anannyasharma@osstaff.iitj.ac.in</h5>
-            <!-- <a class="icons-sm email-ic" href="mailto:anannyasharma@osstaff.iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
+            <a class="icons-sm email-ic" href="mailto:anannyasharma@osstaff.iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
         </div>
         <div class="col-lg-6 col-md-12 mb-r animate-profile">
             <div class="avatar">
@@ -66,8 +66,8 @@ include 'navbar.html';
             <h4>Anjana Sunil</h4>
             <h5><strong>Contact : </strong>+91 7982158311</h5>
             <h5><strong>Mail : </strong>anjana@osstaff.iitj.ac.in</h5>
-            <!-- <a class="icons-sm email-ic" href="mailto:anjana@osstaff.iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
-        </div>
+            <a class="icons-sm email-ic" href="mailto:anjana@osstaff.iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
+        </div> -->
         <div class="col-lg-6 col-md-12 mb-r animate-profile">
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Nabeelah_Siddiqui.jpg" class="lazyload rounded-circle">
