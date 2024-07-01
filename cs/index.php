@@ -229,14 +229,21 @@ include 'navbar.html';
 <!--/.Carousel Wrapper-->
 <section id="info">
     
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center mt-4">
-                <h5>
+    <div class="container mt-4">
+   
+
+        <div class="row d-flex align-items-center">
+            <div class="col-lg-6 d-flex justify-content-center">
+                <p class="text-justify">
                     Mental health is a state of mental well-being that enables people to cope with the stresses of life, realise their abilities, learn well and work well, and contribute to their community... Mental health is a basic human right. And it is crucial to personal, community and socio-economic development." (World Health Organization, 2024). It is as important as physical health, because both are connected through the body and its nervous system and are affected by environmental factors. Just as one would reach out to a doctor for a physical ailment, similarly, one should not hesitate to contact a Professional (Counsellor) for psychological problems.
-                </h5>
+                </p>
+            </div>
+            <div class="col-lg-6 text-center">
+                <iframe width="540" height="345" src="https://www.youtube.com/embed/vQ2slJunGLQ?start=9" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
+
+   
 
         <div class="divider-new pb-2">
             <h2 class="h2-responsive">Our Motto</h2>
