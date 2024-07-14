@@ -66,7 +66,7 @@ include 'navbar.html';
     <?php
         $content = json_decode(file_get_contents('./swc_ug_team_2023.json'), true);
         $start = 2;
-        $end = 12;
+        $end = 10;
         $remaining = $end - $start;
         $j = $remaining %3;
 
@@ -116,8 +116,8 @@ include 'navbar.html';
     <div class="row text-center" id = "student-guide">
     <?php
         $content = json_decode(file_get_contents('./swc_ug_team_2023.json'), true);
-        $start = 12;
-        $end = 60;
+        $start = 10;
+        $end = 58;
         $remaining = $end - $start;
         $j = $remaining %3;
 
