@@ -279,8 +279,8 @@ include 'navbar.html';
                             <!-- <li><a href="form_required.php">Forms and Documents</a></li> -->
                             <li><a href="faculty_advisors.php">Faculty Advisors</a></li>
                             <li><a href="counsellors_team.php">Counsellors Team</a></li>
-                            <li><a href="cs_team_ug_2023.php">UG Team</a></li>
-                            <li><a href="cs_team_pg_2022.php">PG Team</a></li>
+                            <li><a href="cs_team_ug_2024.php">UG Team</a></li>
+                            <li><a href="cs_team_pg_2024.php">PG Team</a></li>
                             <li><a href="general_faqs.php">General Queries</a></li>
                             <li><a href="https://discord.gg/TNXMMFWD">Discord Server</a></li>
                             <li><a href="https://instagram.com/iit_jodhpur_freshers?igshid=MzRlODBiNWFlZA">Instagram</a></li>
@@ -311,7 +311,7 @@ include 'navbar.html';
                             <img src ="images\newicon.gif">
                         </li>
                         <li>
-                        In case of any queries feel free to contact <a href="http://swc.iitj.ac.in/cs_team_ug_2023.php" target="_blank">Our Team</a> 
+                        In case of any queries feel free to contact <a href="http://swc.iitj.ac.in/cs_team_ug_2024.php" target="_blank">Our Team</a> 
                             <img src ="images\newicon.gif">
                         </li>
                     </ol>
