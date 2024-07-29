@@ -392,6 +392,11 @@ include 'navbar.html';
 
             </div>
         </div>
+        <div class="my-5 text-xl">
+            <li class="text-xl">
+                IIT Jodhpur is a ragging free campus. The Institute strictly adheres to the government anti ragging policy.
+            </li>
+        </div>
     </div>
 </section>
 <div class="container">
