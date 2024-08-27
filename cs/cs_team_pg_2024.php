@@ -65,7 +65,7 @@ include 'navbar.html';
     <?php
         $content = json_decode(file_get_contents('./swc_pg_team_2024.json'), true);
         $start = 2;
-        $end = 30;
+        $end = 37;
         
         for ($i = $start; $i < $end; $i++) {
             $entry = $content[$i];
