@@ -36,7 +36,7 @@ include 'navbar.html';
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="4"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="5"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="6"></li>
-        <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="7"></li>
+        <!-- <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="7"></li> -->
         <!-- <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="8"></li> -->
         <!-- <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="9"></li> -->
         <!--<li data-target="#carousel-example-1" data-interval="5000" data-slide-to="10"></li>-->
@@ -155,7 +155,7 @@ include 'navbar.html';
             </div>
         </div>
         <!--/.Slide -->
-        <div class="carousel-item view">
+        <!-- <div class="carousel-item view">
         <?php
             // include 'callout.html';
             ?>
@@ -164,10 +164,10 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <!-- <li><h2 class="h2-responsive">DefeatTheBeat (IITJ Dance Club) during Ignus</h2></li> -->
+                    <li><h2 class="h2-responsive">DefeatTheBeat (IITJ Dance Club) during Ignus</h2></li>
                 </ul>
             </div>
-        </div>
+        </div> -->
         <!--/.Slide -->
         <!--Slide -->
         <!-- <div class="carousel-item view">
