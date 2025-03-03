@@ -3,20 +3,7 @@
 ?>
 <head>
     <title>Counsellors Team</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
+   
 </head>
 
 
@@ -70,7 +57,7 @@ include 'navbar.html';
                 <img src="images/sqloader.gif" data-src="images/avatar/Nabillah Mam.jpeg" class="lazyload rounded-circle">
             </div>
             <h4>Ms Nabeelah Siddiqui</h4>
-            <h5><strong>Well-being Moderator</strong></h5>
+            <h5><strong>Junior Counsellor</strong></h5>
             <h5>M.A. Clinical Psychology</h5>
             <h5><strong>Contact : </strong>+91 8770205067</h5>
             <h5><strong>Mail : </strong>nabeelah@osstaff.iitj.ac.in</h5>
@@ -82,7 +69,7 @@ include 'navbar.html';
                 <img src="images/sqloader.gif" data-src="images/avatar/Sahib Kumar Sunani.jpeg" class="lazyload rounded-circle">
             </div>
             <h4>Sahib Kumar Sunani</h4>
-   
+            <h5><strong>Junior Counsellor</strong></h5>
             <h5><strong>Mail : </strong>sahibks@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>
@@ -92,6 +79,7 @@ include 'navbar.html';
                 <img src="images/sqloader.gif" data-src="images/avatar/Sachin Nanda.jpeg" class="lazyload rounded-circle">
             </div>
             <h4>Sachin Nanda</h4>
+            <h5><strong>Junior Counsellor</strong></h5>
 
             <h5><strong>Mail : </strong>sahinkn@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
@@ -102,7 +90,7 @@ include 'navbar.html';
                 <img src="images/sqloader.gif" data-src="images/avatar/Elizabeth Wilson.jpeg" class="lazyload rounded-circle">
             </div>
             <h4>Elizabeth Wilson</h4>
-        
+            <h5>Junior Counsellor</h5>
             <h5><strong>Mail : </strong>elizabethw@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>
@@ -111,95 +99,7 @@ include 'navbar.html';
   
        
     </div>
-    <h2>Institute Students Wellbeing Committee (ISWC)</h2>
-    <p>Pursuant to the approval of the Board of Governors in its 37th Meeting held on 29th June 2024 towards constitution of the various Advisory Committees, the following <strong>Institute Students Wellbeing Committee (ISWC)</strong> is constituted for suggesting various policies to the Dean of Students Affairs (DOSA):</p>
-    
-     
-    <table>
-        <tr>
-            <td>1.</td>
-            <td>Dean of Students Affairs (DOSA)</td>
-            <td>Chairperson (Ex-officio)</td>
-        </tr>
-        <tr>
-            <td colspan="3"><strong>One Faculty Member from each Department and School to be nominated by the Head</strong></td>
-        </tr>
-        <tr>
-            <td>2.</td>
-            <td>Dr. Priyanka Singh, Associate Professor, Deptt. of BSBE</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>3.</td>
-            <td>Dr. Milan Kumar Hazra, Assistant Professor, Deptt. of Chemistry</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>4.</td>
-            <td>Dr. Sumit Kamal, Assistant Professor, Deptt. of CE</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>5.</td>
-            <td>Dr. Monika Dubey, Assistant Professor, Deptt. of C&IE</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>6.</td>
-            <td>Dr. Anand Mishra, Assistant Professor, Deptt. of CS&E</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>7.</td>
-            <td>Dr. Rajendra Nagar, Assistant Professor, Deptt. of EE</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>8.</td>
-            <td>Dr. Moumita Mandal, Assistant Professor, Deptt. of Mathematics</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>9.</td>
-            <td>Dr. Amrita Puri, Assistant Professor, Deptt. of ME</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>10.</td>
-            <td>Dr. Appala Naidu Gandi, Associate Professor, Deptt. of M&ME</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>11.</td>
-            <td>Dr. Sunita, Assistant Professor, Deptt. of Physics</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>12.</td>
-            <td>Dr. Venkat Ram Reddy Ganuthula, Assistant Professor, SME</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>13.</td>
-            <td>Dr. Prasenjeet Tribhuvan, Assistant Professor, SoLA</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>14.</td>
-            <td>Dr. Ganesh Manjhi, Assistant Professor, SAIDE</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>15.</td>
-            <td>Dr. Shimmila Bhowmick, Young Faculty Associate, School of Design</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>16.</td>
-            <td>To be decided by the ISWC in its 1st Meeting from among its members</td>
-            <td>Member-Convener</td>
-        </tr>
-    </table>
+ 
 </section>
 
 
