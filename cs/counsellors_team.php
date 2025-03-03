@@ -3,7 +3,10 @@
 ?>
 <head>
     <title>Counsellors Team</title>
+   
 </head>
+
+
 <body>
 <!--Navbar-->
 <?php
@@ -35,26 +38,8 @@ include 'navbar.html';
     <!--Section description-->
     <p class="section-description"></p>
     <div class="row justify-content-center text-center">
-        <div class="col-lg-6 col-md-12 mb-r animate-profile">
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/prasad_gadkari.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Mr Prasad Gadkari</h4>
-            <h5><strong>Contact : </strong>+91 98223 55796</h5>
-            <h5><strong>Mail : </strong>prasadgadkari@osstaff.iitj.ac.in</h5>
-            <!-- <a class="icons-sm email-ic" href="mailto:studentcounsellor@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
-        </div>
-        <div class="col-lg-6 col-md-12 mb-r animate-profile">
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/akash_vishwakarma.jpeg" class="lazyload rounded-circle">
-            </div>
-            <h4>Mr Akash Vishwakarma</h4>
-            <h5><strong>Counsellor</strong></h5>
-            <h5>M.Phil Clinical Psychology (RCI)</h5>
-            <h5><strong>Contact : </strong>+91 9651530172 </h5>
-            <h5><strong>Mail : </strong>akashvishwakarma@iitj.ac.in</h5>
-            <!-- <a class="icons-sm email-ic" href="mailto:studentcounsellor@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
-        </div>
+     
+        
         <div class="col-lg-6 col-md-12 mb-r animate-profile">
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/anjali_bhatia.jpg" class="lazyload rounded-circle">
@@ -69,18 +54,56 @@ include 'navbar.html';
         
         <div class="col-lg-6 col-md-12 mb-r animate-profile">
             <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/Nabeelah_Siddiqui.jpg" class="lazyload rounded-circle">
+                <img src="images/sqloader.gif" data-src="images/avatar/Nabillah Mam.jpeg" class="lazyload rounded-circle">
             </div>
             <h4>Ms Nabeelah Siddiqui</h4>
-            <h5><strong>Well-being Moderator</strong></h5>
+            <h5><strong>Junior Counsellor</strong></h5>
             <h5>M.A. Clinical Psychology</h5>
             <h5><strong>Contact : </strong>+91 8770205067</h5>
             <h5><strong>Mail : </strong>nabeelah@osstaff.iitj.ac.in</h5>
             <!-- <a class="icons-sm email-ic" href="mailto:Nabeelah@osstaff.iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>
+
+        <div class="col-lg-6 col-md-12 mb-r animate-profile">
+            <div class="avatar">
+                <img src="images/sqloader.gif" data-src="images/avatar/Sahib Kumar Sunani.jpeg" class="lazyload rounded-circle">
+            </div>
+            <h4>Sahib Kumar Sunani</h4>
+            <h5><strong>Junior Counsellor</strong></h5>
+            <h5><strong>Mail : </strong>sahibks@iitj.ac.in </h5>
+            <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
+        </div>
+
+        <div class="col-lg-6 col-md-12 mb-r animate-profile">
+            <div class="avatar">
+                <img src="images/sqloader.gif" data-src="images/avatar/Sachin Nanda.jpeg" class="lazyload rounded-circle">
+            </div>
+            <h4>Sachin Nanda</h4>
+            <h5><strong>Junior Counsellor</strong></h5>
+
+            <h5><strong>Mail : </strong>sahinkn@iitj.ac.in </h5>
+            <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
+        </div>
+
+        <div class="col-lg-6 col-md-12 mb-r animate-profile">
+            <div class="avatar">
+                <img src="images/sqloader.gif" data-src="images/avatar/Elizabeth Wilson.jpeg" class="lazyload rounded-circle">
+            </div>
+            <h4>Elizabeth Wilson</h4>
+            <h5>Junior Counsellor</h5>
+            <h5><strong>Mail : </strong>elizabethw@iitj.ac.in </h5>
+            <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
+        </div>
+        
+        
+  
        
     </div>
+ 
 </section>
+
+
+
 <!--/Section: Team v.1-->
 
 
